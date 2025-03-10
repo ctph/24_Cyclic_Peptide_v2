@@ -1,0 +1,6296 @@
+[
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCTCSWPVCTRN",
+        "pdbId": "1BZH",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1BZH.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCTVTALLGCSCSNRVCYN",
+        "pdbId": "1D7T",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1D7T.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCSCTWPICTRD",
+        "pdbId": "1DFY",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1DFY.pdb"
+    },
+    {
+        "sequence": "GDPTFCGETCRVIPVCTYSAALGCTCDDRSDGLCKRN",
+        "pdbId": "1DFZ",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1DFZ.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTALLGCSCSNKVCYN",
+        "pdbId": "1DG0",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1DG0.pdb"
+    },
+    {
+        "sequence": "GGTIFDCGESCFLGTCYTKGCSCGEWKLCYGTN",
+        "pdbId": "1FOZ",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1FOZ.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISAALGCSCKNKVCYRN",
+        "pdbId": "1IM7",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1IM7.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISSAIGCSCKSKVCYRN",
+        "pdbId": "1QFB",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1QFB.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCFGGTCNTPGCSCSSWPICTRN",
+        "pdbId": "1SLE",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1SLE.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCFGGTCNTPGCTCDPWPICTRD",
+        "pdbId": "2CK0",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/2CK0.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCTLGTCYTQGCTCSWPICKRN",
+        "pdbId": "2F58",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/2F58.pdb"
+    },
+    {
+        "sequence": "GTLPCGESCVWIPCISSVVGCSCKSKVCYKN",
+        "pdbId": "2KDQ",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/2KDQ.pdb"
+    },
+    {
+        "sequence": "GTLPCGESCVWIPCISAVVGCSCKSKVCYKN",
+        "pdbId": "3F58",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/3F58.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCTCSWPVCTRD",
+        "pdbId": "3OE0",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/3OE0.pdb"
+    },
+    {
+        "sequence": "GAPICGESCFTGKCYTVQCSCSWPVCTRN",
+        "pdbId": "3WMG",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/3WMG.pdb"
+    },
+    {
+        "sequence": "SIPCGESCVFIPCTVTALLGCSCKSKVCYKN",
+        "pdbId": "4IB5",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/4IB5.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYIPCLTSAIGCSCKSKVCYRN",
+        "pdbId": "4M1D",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/4M1D.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCLTSAVGCSCKSKVCYRN",
+        "pdbId": "4N7Y",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/4N7Y.pdb"
+    },
+    {
+        "sequence": "GSIPCAESCVYIPCFTGIAGCSCKNKVCYYN",
+        "pdbId": "4N84",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/4N84.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCITSAIGCSCKSKVCYRN",
+        "pdbId": "4Q2K",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/4Q2K.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCSCSWPVCTRN",
+        "pdbId": "4ZJX",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/4ZJX.pdb"
+    },
+    {
+        "sequence": "GLPICGETCVGGTCNTPGCSCSWPVCTRN",
+        "pdbId": "5J0M",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5J0M.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCTLGKCYTAGCSCSWPVCYRN",
+        "pdbId": "5J1O",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5J1O.pdb"
+    },
+    {
+        "sequence": "GSIPCAESCVYIPCITGIAGCSCKNKVCYYN",
+        "pdbId": "5J31",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5J31.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCTITALLGCSCKNKVCYN",
+        "pdbId": "5JM4",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5JM4.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISTLLGCSCKNKVCYRN",
+        "pdbId": "5LSO",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5LSO.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCITSVAGCSCKSKVCYRN",
+        "pdbId": "5N99",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5N99.pdb"
+    },
+    {
+        "sequence": "KIPCGESCVWIPCVTSIFNCKCENKVCYHD",
+        "pdbId": "5VAV",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5VAV.pdb"
+    },
+    {
+        "sequence": "KIPCGESCVWIPCLTSVFNCKCENKVCYHD",
+        "pdbId": "5VFW",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5VFW.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVWIPCISAAIGCSCKNKVCYR",
+        "pdbId": "5W5S",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5W5S.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISSAIGCSCKNKVCYRN",
+        "pdbId": "5W5U",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5W5U.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCLTSAIGCSCKSKVCYRN",
+        "pdbId": "5W6I",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5W6I.pdb"
+    },
+    {
+        "sequence": "GTPCGESCVWIPCISSAVGCSCKNKVCYKN",
+        "pdbId": "5W6R",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5W6R.pdb"
+    },
+    {
+        "sequence": "GTLPCGESCVWIPCISAAVGCSCKSKVCYKN",
+        "pdbId": "5W6T",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5W6T.pdb"
+    },
+    {
+        "sequence": "SIPCGESCVWIPCTITALAGCKCKSKVCYN",
+        "pdbId": "5W6U",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5W6U.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYIPCLTSAVGCSCKSKVCYRN",
+        "pdbId": "5XN3",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5XN3.pdb"
+    },
+    {
+        "sequence": "GTPCGESCVYIPCISGVIGCSCTDKVCYLN",
+        "pdbId": "6B67",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6B67.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCSCDPWPMCSRN",
+        "pdbId": "6DN5",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6DN5.pdb"
+    },
+    {
+        "sequence": "GVPICGETCVGGTCNTPGCSCSWPVCTRN",
+        "pdbId": "6DN6",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6DN6.pdb"
+    },
+    {
+        "sequence": "GLPICGETCVGGSCNTPGCSCSWPVCTRN",
+        "pdbId": "6DN7",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6DN7.pdb"
+    },
+    {
+        "sequence": "GVPICGETCTLGTCYTAGCSCSWPVCTRN",
+        "pdbId": "6DN8",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6DN8.pdb"
+    },
+    {
+        "sequence": "GVPVCGETCFGGTCNTPGCSCDPWPVCSRN",
+        "pdbId": "6HLB",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6HLB.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCSCETWPVCSRN",
+        "pdbId": "6HLD",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6HLD.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISAAIGCSCKNKVCYRN",
+        "pdbId": "6HZA",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6HZA.pdb"
+    },
+    {
+        "sequence": "GTACGESCYVLPCFTVGCTCTSSQCFKN",
+        "pdbId": "6JWM",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6JWM.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCLTTVAGCSCKNKVCYRN",
+        "pdbId": "6JWN",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6JWN.pdb"
+    },
+    {
+        "sequence": "GFPCGESCVFIPCISAAIGCSCKNKVCYRN",
+        "pdbId": "6M5E",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6M5E.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCSCSRPVCTXN",
+        "pdbId": "6NDY",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6NDY.pdb"
+    },
+    {
+        "sequence": "SISCGESCAMISFCFTEVIGCSCKNKVCYLN",
+        "pdbId": "6NNV",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6NNV.pdb"
+    },
+    {
+        "sequence": "GIPCGESCHYIPCVTSAIGCSCRNRSCMRN",
+        "pdbId": "6OO2",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6OO2.pdb"
+    },
+    {
+        "sequence": "GIPCGDSCHYIPCVTSTIGCSCTNGSCMRN",
+        "pdbId": "6RK9",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6RK9.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFTGTCYTNGCTCDPWPVCTRN",
+        "pdbId": "6U4A",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U4A.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCICDPWPVCTRN",
+        "pdbId": "6U61",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U61.pdb"
+    },
+    {
+        "sequence": "SAIACGESCVYIPCFIPGCSCRNRVCYLN",
+        "pdbId": "6U6K",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U6K.pdb"
+    },
+    {
+        "sequence": "SISCGESCVYIPCTVTALVGCTCKDKVCYLN",
+        "pdbId": "6U6L",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U6L.pdb"
+    },
+    {
+        "sequence": "GSPIQCAETCFIGKCYTEELGCTCTAFLCMKN",
+        "pdbId": "6U71",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U71.pdb"
+    },
+    {
+        "sequence": "GSPRQCAETCFIGKCYTEELGCTCTAFLCMKN",
+        "pdbId": "6U72",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U72.pdb"
+    },
+    {
+        "sequence": "GSVPCGESCVYIPCFTGIAGCSCKSKVCYYN",
+        "pdbId": "6U74",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U74.pdb"
+    },
+    {
+        "sequence": "GEIPCGESCVYLPCFLPNCYCRNHVCYLN",
+        "pdbId": "6U8G",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U8G.pdb"
+    },
+    {
+        "sequence": "SISCGETCTTFNCWIPNCKCNHHDKVCYWN",
+        "pdbId": "6U8H",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U8H.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCISGVIGCSCKSKVCYRN",
+        "pdbId": "6U8I",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U8I.pdb"
+    },
+    {
+        "sequence": "GIACGESCAYFGCWIPGCSCRNKVCYFN",
+        "pdbId": "6U8M",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U8M.pdb"
+    },
+    {
+        "sequence": "GTPCGESCVYIPCFTAVVGCTCKDKVCYLN",
+        "pdbId": "6ULP",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6ULP.pdb"
+    },
+    {
+        "sequence": "GTPCAESCVYLPCFTGVIGCTCKDKVCYLN",
+        "pdbId": "6ULQ",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6ULQ.pdb"
+    },
+    {
+        "sequence": "GNIPCGESCIFFPCFNPGCSCKDNLCYYN",
+        "pdbId": "6ULT",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6ULT.pdb"
+    },
+    {
+        "sequence": "GGTIFDCGESCFLGTCYTKGCSCGEWKLCYGEN",
+        "pdbId": "6ULV",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6ULV.pdb"
+    },
+    {
+        "sequence": "GSVLNCGETCLLGTCYTTGCTCNKYRVCTKD",
+        "pdbId": "6UXS",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6UXS.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTALLGCSCSNNVCYN",
+        "pdbId": "6WGN",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6WGN.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISAAIGCSCKSKVCYRN",
+        "pdbId": "6XIB",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6XIB.pdb"
+    },
+    {
+        "sequence": "SAISCGETCFKFKCYTPRCSCSYPVCK",
+        "pdbId": "6XIC",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6XIC.pdb"
+    },
+    {
+        "sequence": "GSIPACGESCFKGKCYTPGCSCSKYPLCAKN",
+        "pdbId": "6XID",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6XID.pdb"
+    },
+    {
+        "sequence": "GLVPCGETCFTGKCYTPGCSCSYPICKKN",
+        "pdbId": "6XIE",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6XIE.pdb"
+    },
+    {
+        "sequence": "GLPCGETCFTGKCYTPGCSCSYPICKKIN",
+        "pdbId": "6XIF",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6XIF.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISAAIGCSCKNKVCYRN",
+        "pdbId": "6XS5",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6XS5.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYIPCTVTALAGCKCKSKVCYN",
+        "pdbId": "6XS7",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6XS7.pdb"
+    },
+    {
+        "sequence": "GTLPCGESCVWIPCISSVVGCSCKSKVCYKD",
+        "pdbId": "6XS8",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6XS8.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCLTSAIGCSCKSKVCYRD",
+        "pdbId": "6XS9",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6XS9.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVTGSCYTPGCTCSWPVCTRN",
+        "pdbId": "6XSA",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6XSA.pdb"
+    },
+    {
+        "sequence": "GLPICGETCVGGTCNTPGCTCSWPVCTRN",
+        "pdbId": "6Y8K",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6Y8K.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCFGGTCNTPGCTCDSSWPICTHN",
+        "pdbId": "6YW1",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6YW1.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCFGGTCNTPGCTCDPWPVCTHN",
+        "pdbId": "6YW2",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6YW2.pdb"
+    },
+    {
+        "sequence": "DIFCGETCAFIPCITHVPGTCSCKSKVCYFN",
+        "pdbId": "6YW3",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6YW3.pdb"
+    },
+    {
+        "sequence": "GSVFNCGETCVLGTCYTPGCTCNTYRVCTKD",
+        "pdbId": "6YW4",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6YW4.pdb"
+    },
+    {
+        "sequence": "GSVFNCGETCVLGTCYTPGCTCNTYRVCTKD",
+        "pdbId": "7AR4",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7AR4.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCFGGTCNTPGCSCSSWPICTRD",
+        "pdbId": "7BPH",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7BPH.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCFGGTCNTPGCSCSSWPICTRD",
+        "pdbId": "7E5E",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7E5E.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCSCTDPICTRD",
+        "pdbId": "7EZW",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7EZW.pdb"
+    },
+    {
+        "sequence": "GSLCGDTCFVLGCNDSSCSCNYPICVKD",
+        "pdbId": "7JRH",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7JRH.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCACDPWPVCTRD",
+        "pdbId": "7K2E",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7K2E.pdb"
+    },
+    {
+        "sequence": "GLPVCGESCFGGTCNTPGCACDPWPVCTRD",
+        "pdbId": "7K2F",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7K2F.pdb"
+    },
+    {
+        "sequence": "GLPVCGESCFGGSCYTPGCSCTWPICTRD",
+        "pdbId": "7K2G",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7K2G.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCTITALLGCKCQDKVCYD",
+        "pdbId": "7K2H",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7K2H.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCTITALLGCKCKDQVCYN",
+        "pdbId": "7K2I",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7K2I.pdb"
+    },
+    {
+        "sequence": "GVPCAESCVYIPCISTVLGCSCSNQVCYRN",
+        "pdbId": "7K2J",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7K2J.pdb"
+    },
+    {
+        "sequence": "GFIPCGETCIWDKTCHAAGCSCSVANICVRN",
+        "pdbId": "7K2K",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7K2K.pdb"
+    },
+    {
+        "sequence": "GADGFCGESCVYIPCISYLVGCSCDTIEKVCKRN",
+        "pdbId": "7K2L",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7K2L.pdb"
+    },
+    {
+        "sequence": "GGTIFDCGETCFLGTCYTPGCSCGNYGFCYGTN",
+        "pdbId": "7K2M",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7K2M.pdb"
+    },
+    {
+        "sequence": "GGTIFDCGESCFLGTCYTAGCSCGNWGLCYGTN",
+        "pdbId": "7K2N",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7K2N.pdb"
+    },
+    {
+        "sequence": "GGTIFDCGETCFLGTCYTAGCSCGNWGLCYGTN",
+        "pdbId": "7K2O",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7K2O.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVFIPCITGVIGCSCSSNVCYLN",
+        "pdbId": "7K2P",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7K2P.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTALVGCSCSDKVCYN",
+        "pdbId": "7K2Q",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7K2Q.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCSCSYPICTRN",
+        "pdbId": "7K2R",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7K2R.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCTCSYPICTRN",
+        "pdbId": "7K2S",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7K2S.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCAFGSCYTPGCSCSWPVCTRN",
+        "pdbId": "7KEV",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7KEV.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGRCNTPGCTCSYPICTRN",
+        "pdbId": "7KFA",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7KFA.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTALIGCGCSNKVCYN",
+        "pdbId": "7L4Z",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7L4Z.pdb"
+    },
+    {
+        "sequence": "GTIPCGESCVFIPCLTSALGCSCKSKVCYKN",
+        "pdbId": "7LIB",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7LIB.pdb"
+    },
+    {
+        "sequence": "GTFPCGESCVFIPCLTSAIGCSCKSKVCYKN",
+        "pdbId": "7MSO",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7MSO.pdb"
+    },
+    {
+        "sequence": "GLLPCAESCVYIPCLTTVIGCSCKSKVCYKN",
+        "pdbId": "7RNW",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7RNW.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCLTSTVGCSCKSKVCYRN",
+        "pdbId": "7ROV",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7ROV.pdb"
+    },
+    {
+        "sequence": "GTFPCGESCVWIPCISKVIGCACKSKVCYKN",
+        "pdbId": "7S5H",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7S5H.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCLTSAVGCPCKSKVCYRN",
+        "pdbId": "7UBC",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7UBC.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYLPCFTAPLGCSCSSKVCYRN",
+        "pdbId": "7UBD",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7UBD.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCLTATIGCSCKSKVCYRN",
+        "pdbId": "7UBE",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7UBE.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYLPCVTIVIGCSCKDKVCYN",
+        "pdbId": "7UBF",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7UBF.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTALLGCSCKDKVCYN",
+        "pdbId": "7UBG",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7UBG.pdb"
+    },
+    {
+        "sequence": "GRLCGERCVIERTRAWCRTVGCICSLHTLECVRN",
+        "pdbId": "7UBH",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7UBH.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCGCSWPVCTRN",
+        "pdbId": "7UBI",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7UBI.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCACSWPVCTRN",
+        "pdbId": "7UZL",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7UZL.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVYIPCISSLLGCSCKSKVCYKN",
+        "pdbId": "7YUZ",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7YUZ.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCLTSAIGCSCKSKVCYRN",
+        "pdbId": "7YV1",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7YV1.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYLPCFTTIIGCKCQGKVCYH",
+        "pdbId": "7Z4S",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/7Z4S.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVFIPCISSVVGCSCKNKVCYKN",
+        "pdbId": "8CTO",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8CTO.pdb"
+    },
+    {
+        "sequence": "GTIPCGESCVFIPCLTSAIGCSCKSKVCYKN",
+        "pdbId": "8CUN",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8CUN.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVYIPCISSLLGCSCESKVCYKN",
+        "pdbId": "8CWA",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8CWA.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVFIPCISSIVGCSCKSKVCYKN",
+        "pdbId": "8DNQ",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8DNQ.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCLTSAIGCSCKSKVCYRN",
+        "pdbId": "8EHV",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8EHV.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVWIPCLTSIVGCSCKNNVCTLNS",
+        "pdbId": "8F1F",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8F1F.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISSVLGCSCKNKVCYRN",
+        "pdbId": "8F4B",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8F4B.pdb"
+    },
+    {
+        "sequence": "GHPTCGETCLLGTCYTPGCTCKRPVCYKN",
+        "pdbId": "8JJS",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8JJS.pdb"
+    },
+    {
+        "sequence": "GSAILCGESCTLGECYTPGCTCSWPICTKN",
+        "pdbId": "8PKU",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8PKU.pdb"
+    },
+    {
+        "sequence": "GHPICGETCVGNKCYTPGCTCTWPVCYRN",
+        "pdbId": "8PKV",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8PKV.pdb"
+    },
+    {
+        "sequence": "GSIPCGEGCVFIPCISSIVGCSCKSKVCYKN",
+        "pdbId": "8PKW",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8PKW.pdb"
+    },
+    {
+        "sequence": "GIPCGEGCVYLPCFTAPLGCSCSSKVCYRN",
+        "pdbId": "8PKX",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8PKX.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCLTAAIGCSCSSKVCYRN",
+        "pdbId": "8Q1N",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8Q1N.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVWIPCLTSAIGCSCKSSVCYRN",
+        "pdbId": "8R8U",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8R8U.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVLIPCISSVIGCSCKSKVCYRN",
+        "pdbId": "8R8V",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8R8V.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISSVIGCSCKSKVCYRN",
+        "pdbId": "8VX7",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8VX7.pdb"
+    },
+    {
+        "sequence": "GAGCIETCYTFPCISEMINCSCKNSRCQKN",
+        "pdbId": "8WW0",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8WW0.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISSAIGCSCKNKVCYRK",
+        "pdbId": "8WW1",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/8WW1.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISGAIGCSCKSKVCYRN",
+        "pdbId": "9BT3",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/9BT3.pdb"
+    },
+    {
+        "sequence": "TIPCAESCVWIPCTVTALLGCSCKDKVCYN",
+        "pdbId": "9BT6",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/9BT6.pdb"
+    },
+    {
+        "sequence": "GLPICGETCTLGTCYTVGCTCSWPICTRN",
+        "pdbId": "9BT7",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/9BT7.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISTVIGCSCKNKVCYRN",
+        "pdbId": "1BZH",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1BZH.pdb"
+    },
+    {
+        "sequence": "GVPCAESCVWIPCTVTALLGCSCKDKVCYLN",
+        "pdbId": "1D7T",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1D7T.pdb"
+    },
+    {
+        "sequence": "GIPCGESCHIPCVTSAIGCSCRNRSCMRN",
+        "pdbId": "1DFY",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1DFY.pdb"
+    },
+    {
+        "sequence": "GSQSCGESCVLIPCISGVIGCSCSSMICYFN",
+        "pdbId": "1DFZ",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1DFZ.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCLTAAIGCSCRSKVCYRN",
+        "pdbId": "1DG0",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1DG0.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCSCSIPVCTRN",
+        "pdbId": "1FOZ",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1FOZ.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCSCSWPVCFRD",
+        "pdbId": "1IM7",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1IM7.pdb"
+    },
+    {
+        "sequence": "GAPVCGETCFGGTCNTPGCTCDPWPVCTND",
+        "pdbId": "1QFB",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1QFB.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPYCTCSWPVCTRD",
+        "pdbId": "1SLE",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/1SLE.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTEYCTCSWPVCTRD",
+        "pdbId": "2CK0",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/2CK0.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPYCFCSWPVCTRD",
+        "pdbId": "2F58",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/2F58.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISGAIGCSCKSKVCYKN",
+        "pdbId": "2KDQ",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/2KDQ.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISSAIGCSCKNKVCFKN",
+        "pdbId": "3F58",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/3F58.pdb"
+    },
+    {
+        "sequence": "GSIPACGESCFRGKCYTPGCSCSKYPLCAKD",
+        "pdbId": "3OE0",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/3OE0.pdb"
+    },
+    {
+        "sequence": "GSIPACGESCFKGWCYTPGCSCSKYPLCAKD",
+        "pdbId": "3WMG",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/3WMG.pdb"
+    },
+    {
+        "sequence": "GSFPCGESCVFIPCISAIAGCSCKNKVCYKN",
+        "pdbId": "4IB5",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/4IB5.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCITAAIGCSCKTKVCYRN",
+        "pdbId": "4M1D",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/4M1D.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISAVLGCSCKSKVCYRN",
+        "pdbId": "4N7Y",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/4N7Y.pdb"
+    },
+    {
+        "sequence": "GIPCGETCVFMPCISGPMGCSCKHMVCYRN",
+        "pdbId": "4N84",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/4N84.pdb"
+    },
+    {
+        "sequence": "GSAFGCGETCVKGKCNTPGCVCSWPVCKKN",
+        "pdbId": "4Q2K",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/4Q2K.pdb"
+    },
+    {
+        "sequence": "APCGESCVYIPCLLTAPIGCSCSNIVCYRN",
+        "pdbId": "4ZJX",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/4ZJX.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVWVPCTVTALMGCSCVREVCRKD",
+        "pdbId": "5J0M",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5J0M.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTKMLGCSCKDKVCYN",
+        "pdbId": "5J1O",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5J1O.pdb"
+    },
+    {
+        "sequence": "GGSIPCIETCVWTGCFLVPGCSCKSDKKCYLN",
+        "pdbId": "5J31",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5J31.pdb"
+    },
+    {
+        "sequence": "GGSVPCIETCVWTGCFLVPGCSCKSDKKCYLN",
+        "pdbId": "5JM4",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5JM4.pdb"
+    },
+    {
+        "sequence": "GDIPLCGETCFEGGNCRIPGCTCVWPFCSKN",
+        "pdbId": "5LSO",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5LSO.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCFGGTCNTPGCTCDPFPVCTHD",
+        "pdbId": "5N99",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5N99.pdb"
+    },
+    {
+        "sequence": "GIPVCGETCVGGTCNTPGCSCSWPVCTRN",
+        "pdbId": "5VAV",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5VAV.pdb"
+    },
+    {
+        "sequence": "GIACGESCVFLGCFIPGCSCKSKVCYFN",
+        "pdbId": "5VFW",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5VFW.pdb"
+    },
+    {
+        "sequence": "GIPCGETCVAFGCWIPGCSCKDKLCYYD",
+        "pdbId": "5W5S",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5W5S.pdb"
+    },
+    {
+        "sequence": "KLCGETCFKFKCYTPGCSCSYPFCK",
+        "pdbId": "5W5U",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5W5U.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCTVTALLGCSCQNKVCYRD",
+        "pdbId": "5W6I",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5W6I.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISSVLGCSCKNKVCYRD",
+        "pdbId": "5W6R",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5W6R.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCITAAVGCSCKNKVCYRD",
+        "pdbId": "5W6T",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5W6T.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCAGGTCNTPGCSCSWPICTRN",
+        "pdbId": "5W6U",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5W6U.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCAGGTCNTPGCSCTWPICTRN",
+        "pdbId": "5XN3",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/5XN3.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCAGGRCNTPGCSCSWPVCTRN",
+        "pdbId": "6B67",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6B67.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCTCDPWPVCTRN",
+        "pdbId": "6DN5",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6DN5.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCSCDPWPVCTRN",
+        "pdbId": "6DN6",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6DN6.pdb"
+    },
+    {
+        "sequence": "GFPCGESCVYVPCLTAAIGCSCSNKVCYKN",
+        "pdbId": "6DN7",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6DN7.pdb"
+    },
+    {
+        "sequence": "GLPICGETCFGGTCNTPGCICDPWPVCTRD",
+        "pdbId": "6DN8",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6DN8.pdb"
+    },
+    {
+        "sequence": "GSHCGETCFFFGCYKPGCSCDELRQCYKN",
+        "pdbId": "6HLB",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6HLB.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVFIPCLTAVVGCSCSNKVCYLN",
+        "pdbId": "6HLD",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6HLD.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCACDPWPVCTRN",
+        "pdbId": "6HZA",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6HZA.pdb"
+    },
+    {
+        "sequence": "GVPCAESCVWIPCTVTALLGCSCKDKVCYLD",
+        "pdbId": "6JWM",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6JWM.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTALLGCSCKDKVCYLN",
+        "pdbId": "6JWN",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6JWN.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTALLGCSCKDKVCYLD",
+        "pdbId": "6M5E",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6M5E.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCISSVVGCSCKSKVCYLD",
+        "pdbId": "6NDY",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6NDY.pdb"
+    },
+    {
+        "sequence": "GLPCGESCVFIPCITTVVGCSCKNKVCYNN",
+        "pdbId": "6NNV",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6NNV.pdb"
+    },
+    {
+        "sequence": "GLPCGESCVFIPCITTVVGCSCKNKVCYND",
+        "pdbId": "6OO2",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6OO2.pdb"
+    },
+    {
+        "sequence": "GTVPCGESCVFIPCITGIAGCSCKNKVCYIN",
+        "pdbId": "6RK9",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6RK9.pdb"
+    },
+    {
+        "sequence": "GTVPCGESCVFIPCITGIAGCSCKNKVCYID",
+        "pdbId": "6U4A",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U4A.pdb"
+    },
+    {
+        "sequence": "HEPCGESCVFIPCITTVVGCSCKNKVCYN",
+        "pdbId": "6U61",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U61.pdb"
+    },
+    {
+        "sequence": "HEPCGESCVFIPCITTVVGCSCKNKVCYD",
+        "pdbId": "6U6K",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U6K.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCTLGTCYVPDCSCSWPICMKN",
+        "pdbId": "6U6L",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U6L.pdb"
+    },
+    {
+        "sequence": "GSAFCGETCVLGTCYTPDCSCTALVCLKN",
+        "pdbId": "6U71",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U71.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCITGIAGCSCKSKVCYRN",
+        "pdbId": "6U72",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U72.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCITAAIGCSCKSKVCYRN",
+        "pdbId": "6U74",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U74.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCISTVIGCSCKNKVCYRN",
+        "pdbId": "6U8G",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U8G.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCTVTALLGCSCKDKVCYKN",
+        "pdbId": "6U8H",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U8H.pdb"
+    },
+    {
+        "sequence": "GYPICGESCVGGTCNTPGCSCSWPVCTTN",
+        "pdbId": "6U8I",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U8I.pdb"
+    },
+    {
+        "sequence": "GLPICGETCVGGTCNTPGCFCTWPVCTRN",
+        "pdbId": "6U8M",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6U8M.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFTGSCYTPGCSCNWPVCNRN",
+        "pdbId": "6ULP",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6ULP.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCSCSWPVCFRN",
+        "pdbId": "6ULQ",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6ULQ.pdb"
+    },
+    {
+        "sequence": "GTLPCGESCVWIPCISSVVGCACKSKVCYKD",
+        "pdbId": "6ULT",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6ULT.pdb"
+    },
+    {
+        "sequence": "GTRCGETCFVLPCWSAKFGCYCQKGFCYRN",
+        "pdbId": "6ULV",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6ULV.pdb"
+    },
+    {
+        "sequence": "GGSVPCGESCVFIPCITSLAGCSCKNKVCYYD",
+        "pdbId": "6UXS",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6UXS.pdb"
+    },
+    {
+        "sequence": "IQCGESCVWIPCISSAWGCSCKNKICSS",
+        "pdbId": "6WGN",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6WGN.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVFIPCISSVIGCACKSKVCYKN",
+        "pdbId": "6XIB",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6XIB.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCTIGTCYTAGCTCSWPICTRN",
+        "pdbId": "6XIC",
+        "cyclisation": "knot2",
+        "pdbFile": "/pdb_files/6XIC.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVYIPCITSVIGCSCSSKVCYIN",
+        "pdbId": "6XID",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XID.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCISSVIGCSCSSKVCYRN",
+        "pdbId": "6XIE",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XIE.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVFIPCISAVIGCSCSNKVCYKN",
+        "pdbId": "6XIF",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XIF.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVFIPCISAIIGCSCSSKVCYKN",
+        "pdbId": "6XS5",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XS5.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVFIPCISAIIGCSCSNKVCYKN",
+        "pdbId": "6XS7",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XS7.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTAIVGCSCSWGVCYN",
+        "pdbId": "6XS8",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XS8.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCISSVVGCSCKSKVCYNN",
+        "pdbId": "6XS9",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XS9.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCLTTVVGCSCKNKVCYNN",
+        "pdbId": "6XSA",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XSA.pdb"
+    },
+    {
+        "sequence": "GEFLKCGESCVQGECYTPGCSCDWPICKKN",
+        "pdbId": "6Y8K",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6Y8K.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCITGAIGCSCKSKVCYRD",
+        "pdbId": "6YW1",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6YW1.pdb"
+    },
+    {
+        "sequence": "QLPICGETCVLGTCYTPGCRCQYPICVR",
+        "pdbId": "6YW2",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6YW2.pdb"
+    },
+    {
+        "sequence": "QLPICGETCVLGRCYTPNCRCQYPICVR",
+        "pdbId": "6YW3",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6YW3.pdb"
+    },
+    {
+        "sequence": "QAFCGETCLLGTCYTPGCRCTAGICLK",
+        "pdbId": "6YW4",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6YW4.pdb"
+    },
+    {
+        "sequence": "QLPICGETCVLGTCYTPGCSCAYPICVR",
+        "pdbId": "7AR4",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7AR4.pdb"
+    },
+    {
+        "sequence": "QAFCGETCLLGKCYTPGCSCHTGICLK",
+        "pdbId": "7BPH",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7BPH.pdb"
+    },
+    {
+        "sequence": "QLPICGETCVLGTCYTPGCSCAYPICAR",
+        "pdbId": "7E5E",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7E5E.pdb"
+    },
+    {
+        "sequence": "QAFCGETCVLGTCYTPGCSCNFGICLK",
+        "pdbId": "7EZW",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7EZW.pdb"
+    },
+    {
+        "sequence": "QDCGETCVLGTCYTPGCSCSAYPLCV",
+        "pdbId": "7JRH",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7JRH.pdb"
+    },
+    {
+        "sequence": "GLPLCGETCAGGTCNTPGCSCSWPVCVRN",
+        "pdbId": "7K2E",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7K2E.pdb"
+    },
+    {
+        "sequence": "GSSPLCGETCAGGTCNTPGCSCSWPVCVRD",
+        "pdbId": "7K2F",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7K2F.pdb"
+    },
+    {
+        "sequence": "GLPLCGETCVGGTCNTPGCSCSWPVCTRN",
+        "pdbId": "7K2G",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7K2G.pdb"
+    },
+    {
+        "sequence": "GLPLCGETCVGGTCNTPACSCSWPVCTRN",
+        "pdbId": "7K2H",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7K2H.pdb"
+    },
+    {
+        "sequence": "GLPLCGETCVGGTCNTPGCSCGWPVCVRN",
+        "pdbId": "7K2I",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7K2I.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISSAIGCSCKGSKVCYRN",
+        "pdbId": "7K2J",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7K2J.pdb"
+    },
+    {
+        "sequence": "GTLPCGESCVWIPCISSVVGCSCKNKVCYKN",
+        "pdbId": "7K2K",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7K2K.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCITSAVGCSCKSKVCYRN",
+        "pdbId": "7K2L",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7K2L.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISSALGCSCKSKVCYRN",
+        "pdbId": "7K2M",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7K2M.pdb"
+    },
+    {
+        "sequence": "GTIPCGESCVWIPCISSVVGCSCKSKVCYKD",
+        "pdbId": "7K2N",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7K2N.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISTVIGCSCKDKVCYRN",
+        "pdbId": "7K2O",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7K2O.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIRCTITALLGCSCSNNVCYKN",
+        "pdbId": "7K2P",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7K2P.pdb"
+    },
+    {
+        "sequence": "LICSSTCLRIPCLSPRCTCRHHICYLN",
+        "pdbId": "7K2Q",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7K2Q.pdb"
+    },
+    {
+        "sequence": "GAICTGTCFRNPCLSRRCTCRHYICYLN",
+        "pdbId": "7K2R",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7K2R.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCTCSWPICTRN",
+        "pdbId": "7K2S",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7K2S.pdb"
+    },
+    {
+        "sequence": "GLPICGETCTLGTCNTPGCTCSWPICTKN",
+        "pdbId": "7KEV",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7KEV.pdb"
+    },
+    {
+        "sequence": "GLPICGETCFTGTCNTPGCTCSYPVCTRN",
+        "pdbId": "7KFA",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7KFA.pdb"
+    },
+    {
+        "sequence": "GSVICGETCFTTVCNTPGCYCGAYXCTRN",
+        "pdbId": "7L4Z",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7L4Z.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCTVTALLGCSCKNKVCYRN",
+        "pdbId": "7LIB",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7LIB.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCITAAIGCSCKKKVCYRN",
+        "pdbId": "7MSO",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7MSO.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCISALLGCSCSNKVCYNN",
+        "pdbId": "7RNW",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7RNW.pdb"
+    },
+    {
+        "sequence": "GVPCAESCVYIPCTITALFGCSCKDKVCYNN",
+        "pdbId": "7ROV",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7ROV.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCTITALLGCSCKDKVCYKN",
+        "pdbId": "7S5H",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7S5H.pdb"
+    },
+    {
+        "sequence": "GFPCAESCVYIPCTVTALLGCSCRNRVCYRN",
+        "pdbId": "7UBC",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7UBC.pdb"
+    },
+    {
+        "sequence": "IPCGESCVYIPCISAVLGCSCQNKVCYR",
+        "pdbId": "7UBD",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7UBD.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCTITALFGCSCKDKVCYNN",
+        "pdbId": "7UBE",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7UBE.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVWIPCISTVIGCSCSNKVCYR",
+        "pdbId": "7UBF",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7UBF.pdb"
+    },
+    {
+        "sequence": "IPCGESCVWIPCITAIAGCSCKNKVCYT",
+        "pdbId": "7UBG",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7UBG.pdb"
+    },
+    {
+        "sequence": "GASCGETCFTGICFTAGCSCNPWPTCTRN",
+        "pdbId": "7UBH",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7UBH.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTITALMGCSCKNNVCYNN",
+        "pdbId": "7UBI",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7UBI.pdb"
+    },
+    {
+        "sequence": "GDACGETCFTGICFTAGCSCNPWPTCTRN",
+        "pdbId": "7UZL",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7UZL.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISSALGCSCKNKVCYRN",
+        "pdbId": "7YUZ",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7YUZ.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISSVVGCSCKNKVCYRN",
+        "pdbId": "7YV1",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7YV1.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISSVIGCSCKNKVCYRN",
+        "pdbId": "7Z4S",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/7Z4S.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCVTTVIGCSCKDKVCYNN",
+        "pdbId": "8CTO",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8CTO.pdb"
+    },
+    {
+        "sequence": "GEYCGESCYLIPCFTPGCYCVSRQCVNKN",
+        "pdbId": "8CUN",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8CUN.pdb"
+    },
+    {
+        "sequence": "IPCGESCVWIPCISGMFGCSCKDKVCYS",
+        "pdbId": "8CWA",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8CWA.pdb"
+    },
+    {
+        "sequence": "EYCGESCYLIPCFTPGCYCVSRQCVNKN",
+        "pdbId": "8DNQ",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8DNQ.pdb"
+    },
+    {
+        "sequence": "GIGCGESCVWIPCVSAAIGCSCSNKICYRN",
+        "pdbId": "8EHV",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8EHV.pdb"
+    },
+    {
+        "sequence": "GIPCGESCMWIPCISAAIGCSCTNHVCYKN",
+        "pdbId": "8F1F",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8F1F.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISGVQGCSCSNKICYRN",
+        "pdbId": "8F4B",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8F4B.pdb"
+    },
+    {
+        "sequence": "GIPCGGSCVWIPCISGVQGCSCSNKICYRN",
+        "pdbId": "8JJS",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8JJS.pdb"
+    },
+    {
+        "sequence": "GIPCGESCAWIPCISAVQGCSCRNKICYRN",
+        "pdbId": "8PKU",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8PKU.pdb"
+    },
+    {
+        "sequence": "GLPCGESCIWIECISGAIGCSCRNKVCYRN",
+        "pdbId": "8PKV",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8PKV.pdb"
+    },
+    {
+        "sequence": "GIPCGESCIWIPCTTTALLGCSCSNKVCYKN",
+        "pdbId": "8PKW",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8PKW.pdb"
+    },
+    {
+        "sequence": "SYTCGESCLWIPCTVTAAFGCYCSNKVCVKD",
+        "pdbId": "8PKX",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8PKX.pdb"
+    },
+    {
+        "sequence": "STDCGEPCVYIPCTITALLGCSCLNKVCVRP",
+        "pdbId": "8Q1N",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8Q1N.pdb"
+    },
+    {
+        "sequence": "QSISCAETCVWIPCATSLIGCSCVNSICTYTN",
+        "pdbId": "8R8U",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8R8U.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVWMYCISAAMGCSCRNKVCYRN",
+        "pdbId": "8R8V",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8R8V.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWMYCITATMGCSCRNKVCYKN",
+        "pdbId": "8VX7",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8VX7.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCSCSWPVCIRN",
+        "pdbId": "8WW0",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8WW0.pdb"
+    },
+    {
+        "sequence": "GLIPCGESCVWIPCISSVIGCSCKSKVCYKN",
+        "pdbId": "8WW1",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/8WW1.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVWIPCISGIAGCSCSNKVCYLN",
+        "pdbId": "9BT3",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/9BT3.pdb"
+    },
+    {
+        "sequence": "GSWPCGESCVYIPCITSIAGCECSKNVCYKN",
+        "pdbId": "9BT6",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/9BT6.pdb"
+    },
+    {
+        "sequence": "GTPCGESCIYVPCISAVFGCWCQSKVCYKD",
+        "pdbId": "9BT7",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/9BT7.pdb"
+    },
+    {
+        "sequence": "PTPCGETCIWISCVTAAIGCYCHESICYR",
+        "pdbId": "1BZH",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/1BZH.pdb"
+    },
+    {
+        "sequence": "GTIFDCGETCLLGKCYTPGCSCGSWALCYGQN",
+        "pdbId": "1D7T",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/1D7T.pdb"
+    },
+    {
+        "sequence": "GSSCGETCEVFSCFITRCACIDGLCYRN",
+        "pdbId": "1DFY",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/1DFY.pdb"
+    },
+    {
+        "sequence": "GSDDQVACGESCAMTPCFMHVVGCVCSQKVCYR",
+        "pdbId": "1DFZ",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/1DFZ.pdb"
+    },
+    {
+        "sequence": "GVPICGETCFQGTCNTPGCTCKWPICERN",
+        "pdbId": "1DG0",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/1DG0.pdb"
+    },
+    {
+        "sequence": "GDLVPCGESCVYIPCLTTVLGCSCSENVCYRN",
+        "pdbId": "1FOZ",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/1FOZ.pdb"
+    },
+    {
+        "sequence": "GGPLDCQETCTLSDRCYTKGCTCNWPICYKN",
+        "pdbId": "1IM7",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/1IM7.pdb"
+    },
+    {
+        "sequence": "GAPVCGETCFTGLCYSSGCSCIYPVCNRN",
+        "pdbId": "1QFB",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/1QFB.pdb"
+    },
+    {
+        "sequence": "GVAVCGETCTLGTCYTPGCSCDWPICKRN",
+        "pdbId": "1SLE",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/1SLE.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCTLGTCYTPGCTCSWPLCTKN",
+        "pdbId": "2CK0",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/2CK0.pdb"
+    },
+    {
+        "sequence": "GEPVCGDSCVFFGCDDEGCTCGPWSLCYRN",
+        "pdbId": "2F58",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/2F58.pdb"
+    },
+    {
+        "sequence": "GAFTPCGETCLTGECHTEGCSCVGQTFCVKK",
+        "pdbId": "2KDQ",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/2KDQ.pdb"
+    },
+    {
+        "sequence": "GVPSSDCLETCFGGKCNAHRCTCSQWPLCAKN",
+        "pdbId": "3F58",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/3F58.pdb"
+    },
+    {
+        "sequence": "GFACGETCIFTSCFITGCTCNSSLCFRN",
+        "pdbId": "3OE0",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/3OE0.pdb"
+    },
+    {
+        "sequence": "GGTIFSCGESCFQGTCYTKGCACGDWKLCYGEN",
+        "pdbId": "3WMG",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/3WMG.pdb"
+    },
+    {
+        "sequence": "GDTCYETCFTGFCFIGGCKCDFPVCVKN",
+        "pdbId": "4IB5",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/4IB5.pdb"
+    },
+    {
+        "sequence": "GAPICGESCFTGTCYTVQCSCSWPVCTRN",
+        "pdbId": "4M1D",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/4M1D.pdb"
+    },
+    {
+        "sequence": "GGTIFNCGESCFQGTCYTKGCACGDWKLCYGEN",
+        "pdbId": "4N7Y",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/4N7Y.pdb"
+    },
+    {
+        "sequence": "GDIPCGESCVYIPCITGVLGCSCSHNVCYYN",
+        "pdbId": "4N84",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/4N84.pdb"
+    },
+    {
+        "sequence": "GSVFNCGETCVFGTCFTSGCSCVYRVCSKD",
+        "pdbId": "4Q2K",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/4Q2K.pdb"
+    },
+    {
+        "sequence": "GPPVCGETCVGGTCNTPGCSCSWPVCTRN",
+        "pdbId": "4ZJX",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/4ZJX.pdb"
+    },
+    {
+        "sequence": "GLPVCGEACVGGTCNTPGCSCSWPVCTRN",
+        "pdbId": "5J0M",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/5J0M.pdb"
+    },
+    {
+        "sequence": "DTTPCGESCVWIPCVSSIVGCSCQNKVCYQN",
+        "pdbId": "5J1O",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/5J1O.pdb"
+    },
+    {
+        "sequence": "DTIPCGESCVWIPCISSILGCSCKDKVCYHN",
+        "pdbId": "5J31",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/5J31.pdb"
+    },
+    {
+        "sequence": "GLPICGETCFKTKCYTKGCSCSYPVCKRN",
+        "pdbId": "5JM4",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/5JM4.pdb"
+    },
+    {
+        "sequence": "GSVIGCGETCLRGRCYTPGCTCDHGICKKN",
+        "pdbId": "5LSO",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/5LSO.pdb"
+    },
+    {
+        "sequence": "GTVPCGESCVFIPCITGIAGCSCKNKVCYLN",
+        "pdbId": "5N99",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/5N99.pdb"
+    },
+    {
+        "sequence": "GLPICGETCFTGTCYTPGCTCSYPVCKKN",
+        "pdbId": "5VAV",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/5VAV.pdb"
+    },
+    {
+        "sequence": "GSVIKCGESCLLGKCYTPGCTCSRPICKKN",
+        "pdbId": "5VFW",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/5VFW.pdb"
+    },
+    {
+        "sequence": "GSAIRCGESCLLGKCYTPGCTCDRPICKKN",
+        "pdbId": "5W5S",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/5W5S.pdb"
+    },
+    {
+        "sequence": "DLQCAETCVHSPCIGPCYCKHGLICYRN",
+        "pdbId": "5W5U",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/5W5U.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCITGAIGCSCKSKVCYRN",
+        "pdbId": "5W6I",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/5W6I.pdb"
+    },
+    {
+        "sequence": "SIPCGESCVYIPCLTTIVGCSCKNSVCYSN",
+        "pdbId": "5W6R",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/5W6R.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYIPCTVTALLGCSCKDKVCYKN",
+        "pdbId": "5W6T",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/5W6T.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCTITALLGCSCKDKVCYKN",
+        "pdbId": "5W6U",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/5W6U.pdb"
+    },
+    {
+        "sequence": "GGSIPCGESCVFLPCFLPGCSCKSSVCYLN",
+        "pdbId": "5XN3",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/5XN3.pdb"
+    },
+    {
+        "sequence": "GDLFKCGETCFGGTCYTPGCSCDYPICKNN",
+        "pdbId": "6B67",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6B67.pdb"
+    },
+    {
+        "sequence": "GFNSCSEACVYLPCFSKGCSCFKRQCYKN",
+        "pdbId": "6DN5",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6DN5.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCTITALLGCSCKSKVCYKN",
+        "pdbId": "6DN6",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6DN6.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYIPCTVTALLGCSCKNKVCYRN",
+        "pdbId": "6DN7",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6DN7.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISTLIGCSCKNKVCYRN",
+        "pdbId": "6DN8",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6DN8.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCTCTWPVCTRN",
+        "pdbId": "6HLB",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6HLB.pdb"
+    },
+    {
+        "sequence": "GLPICGETCFGGTCNTPNCVCDPWPICTNN",
+        "pdbId": "6HLD",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6HLD.pdb"
+    },
+    {
+        "sequence": "GDPLKCGESCFAGKCYTPGCTCEYPICMNN",
+        "pdbId": "6HZA",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6HZA.pdb"
+    },
+    {
+        "sequence": "GAFCGETCVLGTCYTPDCSCKAVVCIKN",
+        "pdbId": "6JWM",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6JWM.pdb"
+    },
+    {
+        "sequence": "GDPLACGETCFGGTCYTPGCVCDPWPICTKN",
+        "pdbId": "6JWN",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6JWN.pdb"
+    },
+    {
+        "sequence": "GGEFLKCGESCVQGECYTPGCSCDYPICKNN",
+        "pdbId": "6M5E",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6M5E.pdb"
+    },
+    {
+        "sequence": "GDPFKCGESCFAGKCYTPGCTCEYPICMNN",
+        "pdbId": "6NDY",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6NDY.pdb"
+    },
+    {
+        "sequence": "GSAFCGETCVLGTCYTPDCSCKAVVCIKN",
+        "pdbId": "6NNV",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6NNV.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYIPCTVTALLGCSCRDKVCYKN",
+        "pdbId": "6OO2",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6OO2.pdb"
+    },
+    {
+        "sequence": "SYIPCGESCVYIPCTVTALLGCSCSNKVCYKN",
+        "pdbId": "6RK9",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6RK9.pdb"
+    },
+    {
+        "sequence": "GSIRCGERCLLGRCHRPGCTCIRRICRRN",
+        "pdbId": "6U4A",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6U4A.pdb"
+    },
+    {
+        "sequence": "NTAFCGETCVLGTCYTPDCSCKAVVCIKN",
+        "pdbId": "6U61",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6U61.pdb"
+    },
+    {
+        "sequence": "GSAIRCGERCLLGRCHRPGCTCIRRICRRN",
+        "pdbId": "6U6K",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6U6K.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCTVTALLGCSCKSKVCYKN",
+        "pdbId": "6U6L",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6U6L.pdb"
+    },
+    {
+        "sequence": "DLICSSTCLHTPCKASVCYCKNAVCYKN",
+        "pdbId": "6U71",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6U71.pdb"
+    },
+    {
+        "sequence": "SIPCGESCVYIPCLTTIVGCSCKSNVCYSN",
+        "pdbId": "6U72",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6U72.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVYLPCLTTIVGCSCKNNVCYTN",
+        "pdbId": "6U74",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6U74.pdb"
+    },
+    {
+        "sequence": "NTAFCGETCVLGTCYTPDCSCTAIVCIKN",
+        "pdbId": "6U8G",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6U8G.pdb"
+    },
+    {
+        "sequence": "GNPIVCGETCFFQKCYTPGCSCDAVICTNN",
+        "pdbId": "6U8H",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6U8H.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVWIPCISAAIGCSCKKNVCYRN",
+        "pdbId": "6U8I",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6U8I.pdb"
+    },
+    {
+        "sequence": "GALCDERCTYVPCISAARGCSCNIHRVCSMN",
+        "pdbId": "6U8M",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6U8M.pdb"
+    },
+    {
+        "sequence": "GFPICGETCFKTKCYTPGCSCSYPVCKKN",
+        "pdbId": "6ULP",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6ULP.pdb"
+    },
+    {
+        "sequence": "DLQCAETCVHSPCIGPCYCKHGVICYKN",
+        "pdbId": "6ULQ",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6ULQ.pdb"
+    },
+    {
+        "sequence": "KIPCGESCVWIPCISSILGCSCKDKVCYHN",
+        "pdbId": "6ULT",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6ULT.pdb"
+    },
+    {
+        "sequence": "GDLFKCGETCFGGTCYTPGCSCDYPICKKN",
+        "pdbId": "6ULV",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6ULV.pdb"
+    },
+    {
+        "sequence": "GAFCGETCVLGTCYTPGCSCAPVICLNN",
+        "pdbId": "6UXS",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6UXS.pdb"
+    },
+    {
+        "sequence": "GSPTCGETCFGGTCYTPNCVCDPWPICTKN",
+        "pdbId": "6WGN",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6WGN.pdb"
+    },
+    {
+        "sequence": "GSPTCGETCFGGTCYTPGCVCDPWPICTKN",
+        "pdbId": "6XIB",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XIB.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCINKKKCSCKNKVCYRD",
+        "pdbId": "6XIC",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XIC.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCTLGKCNTPKCTCNWPICYKD",
+        "pdbId": "6XID",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XID.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCTLGKCNTPKCTCNWPICYKN",
+        "pdbId": "6XIE",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XIE.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVYIPCISSLLGCSCKSKVCYKD",
+        "pdbId": "6XIF",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XIF.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISSVVGCTCKNKVCYRD ",
+        "pdbId": "6XS5",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XS5.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISSVVGCTCKNKVCYRN",
+        "pdbId": "6XS7",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XS7.pdb"
+    },
+    {
+        "sequence": "GIPICGETCTIGTCNTPGCTCSWPVCTRD",
+        "pdbId": "6XS8",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XS8.pdb"
+    },
+    {
+        "sequence": "GKYTCGETCFKGKCYTPGCTCSYPICKKD ",
+        "pdbId": "6XS9",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XS9.pdb"
+    },
+    {
+        "sequence": "GKPTCGETCFKGKCYTPGCTCSYPLCKKD",
+        "pdbId": "6XSA",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6XSA.pdb"
+    },
+    {
+        "sequence": "GKPICGETCFKGKCYTPGCTCSYPICKKD ",
+        "pdbId": "6Y8K",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6Y8K.pdb"
+    },
+    {
+        "sequence": "GKPICGETCFKGKCYTPGCTCSYPICKKN",
+        "pdbId": "6YW1",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6YW1.pdb"
+    },
+    {
+        "sequence": "GSAIACGESCFKFKCYTPGCSCSYPICKKD",
+        "pdbId": "6YW2",
+        "cyclisation": "knot1",
+        "pdbFile": "/pdb_files/6YW2.pdb"
+    },
+    {
+        "sequence": "GIPTCGETCFKGKCYTPGCSCSYPICKKD ",
+        "pdbId": "6YW3",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/6YW3.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCFKGKCYTPGCSCSYPICKKN ",
+        "pdbId": "6YW4",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/6YW4.pdb"
+    },
+    {
+        "sequence": "VDGFCLETCVILPCFSSVAGCYCHGSTCMRG",
+        "pdbId": "7AR4",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7AR4.pdb"
+    },
+    {
+        "sequence": "GFPCGESCVFIPCTVTALLGCSCKDKVCYKN",
+        "pdbId": "7BPH",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7BPH.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCITGAIGCSCKSKVCYRN",
+        "pdbId": "7E5E",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7E5E.pdb"
+    },
+    {
+        "sequence": "CGESCVFLPCFIIPGCSCKDKVCYLN",
+        "pdbId": "7EZW",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7EZW.pdb"
+    },
+    {
+        "sequence": "ARIPCGESCVWIPCTITALVGCACHEKVCYKS",
+        "pdbId": "7JRH",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7JRH.pdb"
+    },
+    {
+        "sequence": "GSIRCGERCLLGRCHRPGCTCVRRICRRN",
+        "pdbId": "7K2E",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7K2E.pdb"
+    },
+    {
+        "sequence": "GFICGESCVYIPCITALLGCSCSNQICSKN",
+        "pdbId": "7K2F",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7K2F.pdb"
+    },
+    {
+        "sequence": "GDPLKCGESCFAGKCYTPGCTCSRPICKKN",
+        "pdbId": "7K2G",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7K2G.pdb"
+    },
+    {
+        "sequence": "GDPLKCGESCFAGKCYTPGCTCDRPICKKN",
+        "pdbId": "7K2H",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7K2H.pdb"
+    },
+    {
+        "sequence": "DIPCGSTCLHVKCIPPCYCKNKVLCYRN",
+        "pdbId": "7K2I",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7K2I.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCLTSIGCSCKSKVCYRN",
+        "pdbId": "7K2J",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7K2J.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCLTSAGCSCKSKVCYRN ",
+        "pdbId": "7K2K",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7K2K.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVYIPCITSIVGCSCKSKVCYKN",
+        "pdbId": "7K2L",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7K2L.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCFSTVIGCSCKNKVCYRN",
+        "pdbId": "7K2M",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7K2M.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISTVIGCSCKKKVCYRN",
+        "pdbId": "7K2N",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7K2N.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCFSSVIGCSCKNKVCYRN",
+        "pdbId": "7K2O",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7K2O.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCFTSVFGCSCKDKVCYRN",
+        "pdbId": "7K2P",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7K2P.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVYIPCFTGIINCSCRDKVCYNN",
+        "pdbId": "7K2Q",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7K2Q.pdb"
+    },
+    {
+        "sequence": "GLPCGESCVYIPCISTVLGCSCSNKVCYRD",
+        "pdbId": "7K2R",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7K2R.pdb"
+    },
+    {
+        "sequence": "GFPCGESCVYIPCFTAAIGCSCKSKVCYKN",
+        "pdbId": "7K2S",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7K2S.pdb"
+    },
+    {
+        "sequence": "SIPCAESCVWIPCTVTALLGCSCSDKVCYN",
+        "pdbId": "7KEV",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7KEV.pdb"
+    },
+    {
+        "sequence": "GSTPCGESCVWIPCISGIVGCSCSNKVCYMD",
+        "pdbId": "7KFA",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7KFA.pdb"
+    },
+    {
+        "sequence": "GIPCGESCIFIPCITTVVGCSCSNKVCYDN",
+        "pdbId": "7L4Z",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7L4Z.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCTVTALLGCSCSDKVCYN",
+        "pdbId": "7LIB",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7LIB.pdb"
+    },
+    {
+        "sequence": "GSVPCGESCVWIPCITSIAGCSCSNKVCYMD",
+        "pdbId": "7MSO",
+        "cyclisation": "e2s",
+        "pdbFile": "/pdb_files/7MSO.pdb"
+    },
+    {
+        "sequence": "KIPCGESCVYIPCISSVLGCSCSNKVCYKD",
+        "pdbId": "7RNW",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/7RNW.pdb"
+    },
+    {
+        "sequence": "GLPICGESCVGGTCNTPGCTCTWPVCTRN",
+        "pdbId": "7ROV",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/7ROV.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISTLIGCSCKNKVCYRN",
+        "pdbId": "7S5H",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/7S5H.pdb"
+    },
+    {
+        "sequence": "GLPCAESCVFIPCTITAILGCSCRDRVCYD",
+        "pdbId": "7UBC",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/7UBC.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVFIPCVTAILGCSCKDRVCYN",
+        "pdbId": "7UBD",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/7UBD.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISSAIGCSCKDKVCYRD",
+        "pdbId": "7UBE",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/7UBE.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISSAIGCSCRSKVCYRD",
+        "pdbId": "7UBF",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/7UBF.pdb"
+    },
+    {
+        "sequence": "GTLPCGESCVWIPCISSVVGCSCKDKVCYKD",
+        "pdbId": "7UBG",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/7UBG.pdb"
+    },
+    {
+        "sequence": "GIPVCGETCAFGTCYTGGCSCSWPVCTRN",
+        "pdbId": "7UBH",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/7UBH.pdb"
+    },
+    {
+        "sequence": "GTHPCQETCVTSTRCSTQGCHCNWPICFKN",
+        "pdbId": "7UBI",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/7UBI.pdb"
+    },
+    {
+        "sequence": "GVACGESCVYLPCFTVGCTCTSSQCFKN",
+        "pdbId": "7UZL",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/7UZL.pdb"
+    },
+    {
+        "sequence": "GFPTCGETCTLGTCNTPGCTCSWPICTRD",
+        "pdbId": "7YUZ",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/7YUZ.pdb"
+    },
+    {
+        "sequence": "GIPTCGETCTLGTCNTPGCTCSWPICTKN",
+        "pdbId": "7YV1",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/7YV1.pdb"
+    },
+    {
+        "sequence": "GLPICGETCFTGKCYTPGCTCSYPICKKN",
+        "pdbId": "7Z4S",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/7Z4S.pdb"
+    },
+    {
+        "sequence": "GKPICGETCFKGKCYTPGCTCSYPVCKKN",
+        "pdbId": "8CTO",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/8CTO.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYIPCITAAIGCSCKSKVCYRN",
+        "pdbId": "8CUN",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/8CUN.pdb"
+    },
+    {
+        "sequence": "GLPICGETCFFGKCNTPKCTCINPICYKN",
+        "pdbId": "8CWA",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/8CWA.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCITAALGCSCKNKVCYRN",
+        "pdbId": "8DNQ",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/8DNQ.pdb"
+    },
+    {
+        "sequence": "GIPICGETCFFGKCNTPKCTCNKPLCYKN",
+        "pdbId": "8EHV",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/8EHV.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYIPCITTAIGCSCKNKVCYRN",
+        "pdbId": "8F1F",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/8F1F.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVYIPCISSIVGCACKSKVCYKN",
+        "pdbId": "8F4B",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/8F4B.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVWIPCISSVVGCACKNKVCYKN",
+        "pdbId": "8JJS",
+        "cyclisation": "e2e",
+        "pdbFile": "/pdb_files/8JJS.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVYIPISAVLGCSCKNKVCYRN",
+        "pdbId": "8PKU",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8PKU.pdb"
+    },
+    {
+        "sequence": "GTIPCGESCVYIPCITSALGCSCKKKVCYKN",
+        "pdbId": "8PKV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8PKV.pdb"
+    },
+    {
+        "sequence": "GTIPCGESCVYIPCLTSALGCSCKNKVCYRN",
+        "pdbId": "8PKW",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8PKW.pdb"
+    },
+    {
+        "sequence": "GFPTCGETCTLGTCNTPGCTCSWPICTRN",
+        "pdbId": "8PKX",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8PKX.pdb"
+    },
+    {
+        "sequence": "GKPICGETCAKGKCYTPKCTCNWPICYKN",
+        "pdbId": "8Q1N",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8Q1N.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVFIPCISGLAGCSCKNRVCYLN",
+        "pdbId": "8R8U",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8R8U.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCISSVVGCSCKSKVCYRN",
+        "pdbId": "8R8V",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8R8V.pdb"
+    },
+    {
+        "sequence": "GIPVCGETCTLGTCYTAGCSCSWPVCTRN",
+        "pdbId": "8VX7",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8VX7.pdb"
+    },
+    {
+        "sequence": "GSIPACGESCFKGKCYTPGCTCSKYPLCAKN",
+        "pdbId": "8WW0",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8WW0.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISAVIGCSCKSKVCYRN",
+        "pdbId": "8WW1",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8WW1.pdb"
+    },
+    {
+        "sequence": "GIIPCGESCVFIPCITSVVGCSCKSKVCYKN",
+        "pdbId": "9BT3",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/9BT3.pdb"
+    },
+    {
+        "sequence": "GIIPCGESCVFIPCITSIVGCSCKSKVCYKN",
+        "pdbId": "9BT6",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/9BT6.pdb"
+    },
+    {
+        "sequence": "GLPICGETCFTGTCNTPGCSCTYPICTRD",
+        "pdbId": "9BT7",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/9BT7.pdb"
+    },
+    {
+        "sequence": "GDLPICGETCFGGTCNTPGCVCAWPVCNR",
+        "pdbId": "1BZH",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1BZH.pdb"
+    },
+    {
+        "sequence": "SVTPIVCGETCFGGTCNTPGCSCSWPICTK",
+        "pdbId": "1D7T",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1D7T.pdb"
+    },
+    {
+        "sequence": "GDLPVCGETCFGGTCNTPGCVCAWPVCTR",
+        "pdbId": "1DFY",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1DFY.pdb"
+    },
+    {
+        "sequence": "GLPVCGESCFGGTCNTPGCSCTWPVCTRD",
+        "pdbId": "1DFZ",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1DFZ.pdb"
+    },
+    {
+        "sequence": "GFNPCGETCIWFPTCHAPGCTCSIANICVRN",
+        "pdbId": "1DG0",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1DG0.pdb"
+    },
+    {
+        "sequence": "GFNPCGETCWNKPTCHAPGCTCSIANICVRN",
+        "pdbId": "1FOZ",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1FOZ.pdb"
+    },
+    {
+        "sequence": "GFNPCGETCQIDQTCHAPGCTCSIANICVRN",
+        "pdbId": "1IM7",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1IM7.pdb"
+    },
+    {
+        "sequence": "GTFPCGESCVYIPCISSVVGCSCKSKVCYKN",
+        "pdbId": "1QFB",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1QFB.pdb"
+    },
+    {
+        "sequence": "GTFPCGESCVWIPCISSVVGCSCKSKVCYKN",
+        "pdbId": "1SLE",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1SLE.pdb"
+    },
+    {
+        "sequence": "GNPGACGETCIWGKCYSASIGCSCSKYKVCTLN",
+        "pdbId": "2CK0",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/2CK0.pdb"
+    },
+    {
+        "sequence": "GNPGACGETCVWGKCYSASIGCSCNKYKVCTLN",
+        "pdbId": "2F58",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/2F58.pdb"
+    },
+    {
+        "sequence": "GNPGACGETCIWGKCYSASIGCSCSRYKVCTLN",
+        "pdbId": "2KDQ",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/2KDQ.pdb"
+    },
+    {
+        "sequence": "GNPGACGETCIWGKCYSAKIGCSCSKYKICTLN",
+        "pdbId": "3F58",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/3F58.pdb"
+    },
+    {
+        "sequence": "GAFLKCGESCVYLPCLTTVVGCSCQNSVCYRD",
+        "pdbId": "3OE0",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/3OE0.pdb"
+    },
+    {
+        "sequence": "GAVPCGETCVYLPCITPDIGCSCQNKVCYRD",
+        "pdbId": "3WMG",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/3WMG.pdb"
+    },
+    {
+        "sequence": "GTSCGETCVLLPCLSSVLGCTCQNKRCYKD",
+        "pdbId": "4IB5",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4IB5.pdb"
+    },
+    {
+        "sequence": "GVFCGEACAQASCSIAGCECIAGLCYKN",
+        "pdbId": "4M1D",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4M1D.pdb"
+    },
+    {
+        "sequence": "GVFCGELCIKASCSIPGCECIAGLCYKN",
+        "pdbId": "4N7Y",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4N7Y.pdb"
+    },
+    {
+        "sequence": "GVFCGEPCIKASCSIPGCECIAGLCYKN",
+        "pdbId": "4N84",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4N84.pdb"
+    },
+    {
+        "sequence": "GIHCAETCLWGTCRTAYIGCSCENKICYKN",
+        "pdbId": "4Q2K",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4Q2K.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCSCEWPVCTRN",
+        "pdbId": "4ZJX",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4ZJX.pdb"
+    },
+    {
+        "sequence": "PISCGETCKFSRCFTSIFGCKCINKVCHT",
+        "pdbId": "5J0M",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5J0M.pdb"
+    },
+    {
+        "sequence": "GLFCGEYCVQFPCRSPGCICLRGLCVRN",
+        "pdbId": "5J1O",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5J1O.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCISSVIGCSCKSKVCYRN",
+        "pdbId": "5J31",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5J31.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCFSAAIGCSCSSKVCYRN",
+        "pdbId": "5JM4",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5JM4.pdb"
+    },
+    {
+        "sequence": "GKIPCGESCVWIPCITTVVGCSCSNKVCYKN",
+        "pdbId": "5LSO",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5LSO.pdb"
+    },
+    {
+        "sequence": "GRVPCGESCVYIPCFTSIAGCSCSDKVCWHN",
+        "pdbId": "5N99",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5N99.pdb"
+    },
+    {
+        "sequence": "GFPCGESCVYVPCLTAAIGCSCKNKVCYKN",
+        "pdbId": "5VAV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5VAV.pdb"
+    },
+    {
+        "sequence": "GVQCGPTCRFGPVNCGINPRCNCRNTRCVWD",
+        "pdbId": "5VFW",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5VFW.pdb"
+    },
+    {
+        "sequence": "GIHCAETCIWGTCRTAIIGCSCENRICYKN",
+        "pdbId": "5W5S",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W5S.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCSTPGCGCSWPVCTRN",
+        "pdbId": "5W5U",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W5U.pdb"
+    },
+    {
+        "sequence": "GPPVCGETCVGGTCNTPGCSCSWPVCTRN",
+        "pdbId": "5W6I",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W6I.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGACNTPGCACSWPVCTRN",
+        "pdbId": "5W6R",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W6R.pdb"
+    },
+    {
+        "sequence": "GLPVCGEACVGGTCNTPGCSCSWPVCTRN",
+        "pdbId": "5W6T",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W6T.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCPCEWPVCTRN",
+        "pdbId": "5W6U",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W6U.pdb"
+    },
+    {
+        "sequence": "GSIPSCGESCFKGKCYTPGCSCSKYPLCAKN",
+        "pdbId": "5XN3",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5XN3.pdb"
+    },
+    {
+        "sequence": "GQDFCGGQICFASDCIVVGCECDAWSRCVPS",
+        "pdbId": "6B67",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6B67.pdb"
+    },
+    {
+        "sequence": "GSYYSCGETCRKTKCYTPDCICAWPGLCGKN",
+        "pdbId": "6DN5",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6DN5.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYLPCVTIVIGCSCKDEVCYNS",
+        "pdbId": "6DN6",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6DN6.pdb"
+    },
+    {
+        "sequence": "GSIPSCGESCFKGKCYTPGCSCSKYPLCAKK",
+        "pdbId": "6DN7",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6DN7.pdb"
+    },
+    {
+        "sequence": "GSIPSCGESCFKGKCYTPGCSCSKYPLCAYE",
+        "pdbId": "6DN8",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6DN8.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCITAAIGCSCSSKVCYRN",
+        "pdbId": "6HLB",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6HLB.pdb"
+    },
+    {
+        "sequence": "GSIPSCGESCFKGKCYTPVCSCSKYPLCAKN",
+        "pdbId": "6HLD",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6HLD.pdb"
+    },
+    {
+        "sequence": "GASCVETCNYFPCISEMINCYCQSKRCVKN",
+        "pdbId": "6HZA",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6HZA.pdb"
+    },
+    {
+        "sequence": "GSLPCGESCVFIPCISSVIGCACKSKVCYKN",
+        "pdbId": "6JWM",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6JWM.pdb"
+    },
+    {
+        "sequence": "GIHCAETCFWGTCRTAYIGCSCENRICYKN",
+        "pdbId": "6JWN",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6JWN.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISSLIGCSCRGKVCYH",
+        "pdbId": "6M5E",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6M5E.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVWIPCLTGAIGCSCSNKVCYLN",
+        "pdbId": "6NDY",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6NDY.pdb"
+    },
+    {
+        "sequence": "GTFCGETCVMFPCFSSARGCGCHNLGCELN",
+        "pdbId": "6NNV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6NNV.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCLTSAIGCSCKSKVCYKN",
+        "pdbId": "6OO2",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6OO2.pdb"
+    },
+    {
+        "sequence": "GGHCGESCMLLPCFTARIGCSCSRSICYKN",
+        "pdbId": "6RK9",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6RK9.pdb"
+    },
+    {
+        "sequence": "GRFCGEICSRGFCSNPRCTCNASRQCVRN",
+        "pdbId": "6U4A",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U4A.pdb"
+    },
+    {
+        "sequence": "GRAVCGETCFAGICYTPVCVCGKWDLCRMN",
+        "pdbId": "6U61",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U61.pdb"
+    },
+    {
+        "sequence": "SELPCGESCVFIPCITSIAGCSCSHKVCYLN",
+        "pdbId": "6U6K",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U6K.pdb"
+    },
+    {
+        "sequence": "GPTPCGETCIWISCVTAVMGCSCKNSICYMN",
+        "pdbId": "6U6L",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U6L.pdb"
+    },
+    {
+        "sequence": "GEVTCNGETCFTGKCNAKGCNCKNWPLCTRN",
+        "pdbId": "6U71",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U71.pdb"
+    },
+    {
+        "sequence": "SIFCSETCRTFPCFTKAVGCSCVSKRCYKN",
+        "pdbId": "6U72",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U72.pdb"
+    },
+    {
+        "sequence": "GIPCAETCLWRPCRTAIMGCSCEYNFCYKN",
+        "pdbId": "6U74",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U74.pdb"
+    },
+    {
+        "sequence": "GRLPCGESCVFLPCLSVSLGCSCKNKVCYRN",
+        "pdbId": "6U8G",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U8G.pdb"
+    },
+    {
+        "sequence": "GRLPCGESCVFLPCLSAVLGCSCKNKVCYRN",
+        "pdbId": "6U8H",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U8H.pdb"
+    },
+    {
+        "sequence": "GVLPCGESCVFDRTCHLAGCGCGSTVPLCVRN",
+        "pdbId": "6U8I",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U8I.pdb"
+    },
+    {
+        "sequence": "GLPCAESCVWLPCTVTALLGCSCKDKVCYRN",
+        "pdbId": "6U8M",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U8M.pdb"
+    },
+    {
+        "sequence": "GTVPCGESCVWLPCLTGLVGCSCKNNVCYTN",
+        "pdbId": "6ULP",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6ULP.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCTLGTCNTPGCTCSWPLCTKN",
+        "pdbId": "6ULQ",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6ULQ.pdb"
+    },
+    {
+        "sequence": "GLPCGESCVYLPCLLTAPLGCSCKNKVCYRN",
+        "pdbId": "6ULT",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6ULT.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVWLPCTVTALLGCKCETRGCTLN",
+        "pdbId": "6ULV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6ULV.pdb"
+    },
+    {
+        "sequence": "GLPCAESCVWLPCTVTALLGCTCVDRVCFLD",
+        "pdbId": "6UXS",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6UXS.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCAGGTCNTPGCSCTWPLCTRN",
+        "pdbId": "6WGN",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6WGN.pdb"
+    },
+    {
+        "sequence": "GLPCGESCVFLPCLTSALGCSCKSKVCYRN",
+        "pdbId": "6XIB",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XIB.pdb"
+    },
+    {
+        "sequence": "GSVPCGESCVWLPCLSGLAGCSCKNKVCYYD",
+        "pdbId": "6XIC",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XIC.pdb"
+    },
+    {
+        "sequence": "GLPICGETCVFGKCNTPGCSCRRPICYKN",
+        "pdbId": "6XID",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XID.pdb"
+    },
+    {
+        "sequence": "GSYLCGETCVQGKCYTPGCTCSWPICKKN",
+        "pdbId": "6XIE",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XIE.pdb"
+    },
+    {
+        "sequence": "GLPICGETCLLGKCYTPGCSCRRPVCYKN",
+        "pdbId": "6XIF",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XIF.pdb"
+    },
+    {
+        "sequence": "GKPICGETCLLGKCYTPGCTCGKRVLCYKN",
+        "pdbId": "6XS5",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XS5.pdb"
+    },
+    {
+        "sequence": "GLPICGETCTLGTCNTPGCTCSWPVCFRN",
+        "pdbId": "6XS7",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XS7.pdb"
+    },
+    {
+        "sequence": "PSPCGESCVFIPCISALIGCSCKNKVCYR",
+        "pdbId": "6XS8",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XS8.pdb"
+    },
+    {
+        "sequence": "GISCAETCVKLPCLSSVIGCTCQNKRCYKD",
+        "pdbId": "6XS9",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XS9.pdb"
+    },
+    {
+        "sequence": "GISCGETCVLLPCLSSVIGCTCQNKRCYKN",
+        "pdbId": "6XSA",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XSA.pdb"
+    },
+    {
+        "sequence": "GGSVPCGESCVFIPCLTSLAGCSCKNKVCYYN",
+        "pdbId": "6Y8K",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6Y8K.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISSFLGCSCKNKVCYRN",
+        "pdbId": "6YW1",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6YW1.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCTCTWPVCTRN",
+        "pdbId": "6YW2",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6YW2.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCTITALLGCSCKSKVCYN",
+        "pdbId": "6YW3",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6YW3.pdb"
+    },
+    {
+        "sequence": "GAVPCGESCVYLPCLTTVVGCSCQNSVCYHN",
+        "pdbId": "6YW4",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6YW4.pdb"
+    },
+    {
+        "sequence": "GAVPCGETCVYLPCITAAIGCSCQNKVCYRD",
+        "pdbId": "7AR4",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7AR4.pdb"
+    },
+    {
+        "sequence": "GISCAETCVLLPCLSSVIGCTCQNKRCYKN",
+        "pdbId": "7BPH",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7BPH.pdb"
+    },
+    {
+        "sequence": "GIPCGESCAFLPCLTSLLGCTCQNKVCYRD",
+        "pdbId": "7E5E",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7E5E.pdb"
+    },
+    {
+        "sequence": "GNPCGESCVYLPCITTVVGCSCQNSVCYHN",
+        "pdbId": "7EZW",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7EZW.pdb"
+    },
+    {
+        "sequence": "QCGESCVWIPCISSAWGCSCKNKICSS",
+        "pdbId": "7JRH",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7JRH.pdb"
+    },
+    {
+        "sequence": "QCGESCVWIPCISSAWGCSCKNKICSS",
+        "pdbId": "7K2E",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2E.pdb"
+    },
+    {
+        "sequence": "GRPTCGETCFKTKCYTPGCSCSYPICKKN",
+        "pdbId": "7K2F",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2F.pdb"
+    },
+    {
+        "sequence": "GDALKCGETCFGGTCYTPGCSCDYPICKKN",
+        "pdbId": "7K2G",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2G.pdb"
+    },
+    {
+        "sequence": "GCLPICGETCFKTKCYTKGCSCSYPICKKN",
+        "pdbId": "7K2H",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2H.pdb"
+    },
+    {
+        "sequence": "GRPTCGETCFKTKCYTKGCSCSYPVCKRN",
+        "pdbId": "7K2I",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2I.pdb"
+    },
+    {
+        "sequence": "ANIPMTCGPCLTDECWTPGCEYHCKYCKNS",
+        "pdbId": "7K2J",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2J.pdb"
+    },
+    {
+        "sequence": "GISCGESCVFIPCITGIAGCSCKNKVCYLN",
+        "pdbId": "7K2K",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2K.pdb"
+    },
+    {
+        "sequence": "CVIPCGESRVFIPCITGAIGCSCKSKVCYRN",
+        "pdbId": "7K2L",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2L.pdb"
+    },
+    {
+        "sequence": "GSITGCGGGCLLGRCYRPGCTCVRRICRRN",
+        "pdbId": "7K2M",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2M.pdb"
+    },
+    {
+        "sequence": "GSAIRCGERCLLGRCHRPGCTCVRRICRRN",
+        "pdbId": "7K2N",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2N.pdb"
+    },
+    {
+        "sequence": "GSSIVTCGETCLRGKCYTPGCTCVRPICKKN",
+        "pdbId": "7K2O",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2O.pdb"
+    },
+    {
+        "sequence": "GDPFKCGESCFAGKCYTPGCTCSRPICKKN",
+        "pdbId": "7K2P",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2P.pdb"
+    },
+    {
+        "sequence": "GSPCGESCVFIPCISTVIGCSCKNKVCYRN",
+        "pdbId": "7K2Q",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2Q.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYIPCTVTALLGCSCKNKVCFRN",
+        "pdbId": "7K2R",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2R.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFISCTVTALLGCSCKDKVCYKN",
+        "pdbId": "7K2S",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2S.pdb"
+    },
+    {
+        "sequence": "NIFPCGESCVYIPCITSIVGCSCQNKVCYNN",
+        "pdbId": "7KEV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7KEV.pdb"
+    },
+    {
+        "sequence": "DTIPCGESCVFIPCTSSVLGCSCKDKFCYNN",
+        "pdbId": "7KFA",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7KFA.pdb"
+    },
+    {
+        "sequence": "GGTACGESCIYLPCISGVFEGCSCQNKACYKN",
+        "pdbId": "7L4Z",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7L4Z.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFLPCFIIPGCSCKDKVCYLN",
+        "pdbId": "7LIB",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7LIB.pdb"
+    },
+    {
+        "sequence": "GIPCVESCVFIPCTVTALLGCSCKDKVCYKN",
+        "pdbId": "7MSO",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7MSO.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVYIPCTVTALLGCSCKNKVCYRN",
+        "pdbId": "7RNW",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7RNW.pdb"
+    },
+    {
+        "sequence": "GLPCGESCVYIPCISTVLGCSCSNKVCYRN",
+        "pdbId": "7ROV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7ROV.pdb"
+    },
+    {
+        "sequence": "KIPCGESCVWIPCFTSAFGCYCQSKVCYHS",
+        "pdbId": "7S5H",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7S5H.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCITAAVGCSCSNKVCYRN",
+        "pdbId": "7UBC",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7UBC.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISSVLGCSCSNKVCYRN",
+        "pdbId": "7UBD",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7UBD.pdb"
+    },
+    {
+        "sequence": "GAIPCGESCVYIPCISTVLGCSCSNKVCYKN",
+        "pdbId": "7UBE",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7UBE.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWLPCFIVPGCSCNDKVCYLN",
+        "pdbId": "7UBF",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7UBF.pdb"
+    },
+    {
+        "sequence": "AVPCGESCVWIPCITSIAGCSCSNKVCYMN",
+        "pdbId": "7UBG",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7UBG.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYIPCFTAAIGCSCSNKVCYRN",
+        "pdbId": "7UBH",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7UBH.pdb"
+    },
+    {
+        "sequence": "GLAKSCGETCKVTKRCSGQGCSCLKGRSCYD",
+        "pdbId": "7UBI",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7UBI.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISAAIGCSCSNKVCYRN",
+        "pdbId": "7UZL",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7UZL.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCFSAAIGCSCRSRVCYRN",
+        "pdbId": "7YUZ",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7YUZ.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCFSAAIGCSCRSKVCYRN",
+        "pdbId": "7YV1",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7YV1.pdb"
+    },
+    {
+        "sequence": "AVPCGESCVIIPCFTGIVGCGCTNKVCYIN",
+        "pdbId": "7Z4S",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7Z4S.pdb"
+    },
+    {
+        "sequence": "SIPCGESCVFIPCFTGVVGCGCTNKVCYIN",
+        "pdbId": "8CTO",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8CTO.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCFTSAIGCSCKSKVCYRN",
+        "pdbId": "8CUN",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8CUN.pdb"
+    },
+    {
+        "sequence": "GTPCGESCVYIPCLSTVLGCSCSNRICYRN",
+        "pdbId": "8CWA",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8CWA.pdb"
+    },
+    {
+        "sequence": "GSPCGEYCVFHPSCITAIIGCSCRNRVCYKN",
+        "pdbId": "8DNQ",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8DNQ.pdb"
+    },
+    {
+        "sequence": "GIIPCGETCIWDKTCHIPGCKCEHNICVRN",
+        "pdbId": "8EHV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8EHV.pdb"
+    },
+    {
+        "sequence": "GTPCGESCVWIPCVTTIVGCSCKSNVCYLN",
+        "pdbId": "8F1F",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8F1F.pdb"
+    },
+    {
+        "sequence": "GIIPCGETCIWDKKCHIQGCSCKHDICVRN",
+        "pdbId": "8F4B",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8F4B.pdb"
+    },
+    {
+        "sequence": "GFPCGESCVYIPCTVTALWGCACWEHVCYTN",
+        "pdbId": "8JJS",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8JJS.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTALLGCSCSDKVCYN",
+        "pdbId": "8PKU",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8PKU.pdb"
+    },
+    {
+        "sequence": "GAMPCGESCVYIPCTVTALLGCSCKNNVCYKN",
+        "pdbId": "8PKV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8PKV.pdb"
+    },
+    {
+        "sequence": "GIIPCGESCVWIPCTVTAVMGCSCKDNVCYRN",
+        "pdbId": "8PKW",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8PKW.pdb"
+    },
+    {
+        "sequence": "GIPCGESCFWIPCTVTSLLGCSCKSSVCYKY",
+        "pdbId": "8PKX",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8PKX.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVYIPCTVTALLGCSCSNKVCYKN",
+        "pdbId": "8Q1N",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8Q1N.pdb"
+    },
+    {
+        "sequence": "SIPCGETCVWLPCFIVPGCSCKDKVCYIN",
+        "pdbId": "8R8U",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8R8U.pdb"
+    },
+    {
+        "sequence": "GLIPCGESCVLIPCISTIIGCSCKNKVCYRN",
+        "pdbId": "8R8V",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8R8V.pdb"
+    },
+    {
+        "sequence": "RFTSCQEGCFFRPCTTPGCRCLADLCVKN",
+        "pdbId": "8VX7",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8VX7.pdb"
+    },
+    {
+        "sequence": "GIKIPCGESCAWVDFCFTSIVGCSCENKVCYKN",
+        "pdbId": "8WW0",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8WW0.pdb"
+    },
+    {
+        "sequence": "KIPCGESCAWVDFCFTSIVGCSCENKVCYKN",
+        "pdbId": "8WW1",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8WW1.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCLTAAIGCSCSNRVCYRN",
+        "pdbId": "9BT3",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/9BT3.pdb"
+    },
+    {
+        "sequence": "KVPCGESCAWVNFCFTSVVGCSCQDKVCYMN",
+        "pdbId": "9BT6",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/9BT6.pdb"
+    },
+    {
+        "sequence": "SIPCGESCVFIPCFTRVIGCSCRNKVCYRG",
+        "pdbId": "9BT7",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/9BT7.pdb"
+    },
+    {
+        "sequence": "QVSCGETCKSGPCSYPRCTCTAKICVLY",
+        "pdbId": "1BZH",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1BZH.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVFIPCFTKVIGCSCRSRVCYL",
+        "pdbId": "1D7T",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1D7T.pdb"
+    },
+    {
+        "sequence": "ELISCGESCVYFPCITRIVGCRCRRNVCWLQ",
+        "pdbId": "1DFY",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1DFY.pdb"
+    },
+    {
+        "sequence": "PAAFPCGESCVYIPCLTTAIGCSCKNKVCYHD",
+        "pdbId": "1DFZ",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1DFZ.pdb"
+    },
+    {
+        "sequence": "PAAFPCGESCVYIPCVTTLIGCSCKDKVCYHD",
+        "pdbId": "1DG0",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1DG0.pdb"
+    },
+    {
+        "sequence": "IPCLESCVYLPCIFTGPTLGCSCKNNVCYR",
+        "pdbId": "1FOZ",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1FOZ.pdb"
+    },
+    {
+        "sequence": "GIPCGESCGESCVWIPCISSVLGCSCSNKVCYRN",
+        "pdbId": "1IM7",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1IM7.pdb"
+    },
+    {
+        "sequence": "GRPCGEYCLFGRSCVTAVIGCSCSNNVCYQN",
+        "pdbId": "1QFB",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1QFB.pdb"
+    },
+    {
+        "sequence": "DLICSQTCFSHPCVPQCVCRNFICYRN",
+        "pdbId": "1SLE",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1SLE.pdb"
+    },
+    {
+        "sequence": "ALICGESCFTGKCYSEVIGCGCSWPLCKKN",
+        "pdbId": "2CK0",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/2CK0.pdb"
+    },
+    {
+        "sequence": "PLICGETCFTGTCYSAQIGCSCSWPVCMKN",
+        "pdbId": "2F58",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/2F58.pdb"
+    },
+    {
+        "sequence": "YYCGETCKFITCTFSRLEWCSCQNKRCMNN",
+        "pdbId": "2KDQ",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/2KDQ.pdb"
+    },
+    {
+        "sequence": "SIPCGESCVIIPCITGIFGPCSCKSKVCYFN",
+        "pdbId": "3F58",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/3F58.pdb"
+    },
+    {
+        "sequence": "GTPCGESCVYIPCLTTIVGCSCKSNVCYLN",
+        "pdbId": "3OE0",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/3OE0.pdb"
+    },
+    {
+        "sequence": "SVPCGESCVFIPCVTGIIGCECKSKVCYLN",
+        "pdbId": "3WMG",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/3WMG.pdb"
+    },
+    {
+        "sequence": "GLIPCGESCVWIPCFSAAIGCSCNGQDHVCYRN",
+        "pdbId": "4IB5",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4IB5.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCIVSVILGCSCQSKVCYN",
+        "pdbId": "4M1D",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4M1D.pdb"
+    },
+    {
+        "sequence": "TPCGETCKYIPCITLIYPPCECKDGLCVWPSVD",
+        "pdbId": "4N7Y",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4N7Y.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCLSSAFGCSCRSKVCYRN",
+        "pdbId": "4N84",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4N84.pdb"
+    },
+    {
+        "sequence": "GLQRCRESCNRVKCWLPGCECLNKMCYKN",
+        "pdbId": "4Q2K",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4Q2K.pdb"
+    },
+    {
+        "sequence": "ALFCGESCFVGSCNKSPAGCRCSYPFCIKN",
+        "pdbId": "4ZJX",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4ZJX.pdb"
+    },
+    {
+        "sequence": "GFHCRESCRHTRCSIAACSCSKDKYCMRN",
+        "pdbId": "5J0M",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5J0M.pdb"
+    },
+    {
+        "sequence": "GFSCGQSCVFLPCLNPGPIPPSCRCVKGECVRN",
+        "pdbId": "5J1O",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5J1O.pdb"
+    },
+    {
+        "sequence": "GIPCPGSCFFIDCNPGPFPPSCKCKGGMCVRN",
+        "pdbId": "5J31",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5J31.pdb"
+    },
+    {
+        "sequence": "AVPCGESCVWIPCISSIAGCSCSNSVCYLN",
+        "pdbId": "5JM4",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5JM4.pdb"
+    },
+    {
+        "sequence": "VLSCIETCVYIPCITSLIGCSCKDKICYLN",
+        "pdbId": "5LSO",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5LSO.pdb"
+    },
+    {
+        "sequence": "FFPCTESCGVLPCLTSLIGCRCVDKICVKD",
+        "pdbId": "5N99",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5N99.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVFIPCTITALLGCKCQSNVCYN",
+        "pdbId": "5VAV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5VAV.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVFIPCTITALLGCKCQSKVCYN",
+        "pdbId": "5VFW",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5VFW.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTALLGCKCQSNVCYN",
+        "pdbId": "5W5S",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W5S.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVWIPCFSSVIGCRCRSKVCYR",
+        "pdbId": "5W5U",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W5U.pdb"
+    },
+    {
+        "sequence": "GFLQSCGEGCFFKPCTKPGCTCLADLCVTN",
+        "pdbId": "5W6I",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W6I.pdb"
+    },
+    {
+        "sequence": "SIPCGESCALFDFCFTAPLGCTCQNKVCYKN",
+        "pdbId": "5W6R",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W6R.pdb"
+    },
+    {
+        "sequence": "GIPCGESCAWLPFCFTAPLGCTCQDKVCYRN",
+        "pdbId": "5W6T",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W6T.pdb"
+    },
+    {
+        "sequence": "SIPCGESCAWFDFCFTAPLGCTCQNKVCSIN",
+        "pdbId": "5W6U",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W6U.pdb"
+    },
+    {
+        "sequence": "SIGCGESCVYLGCFIIPACRTCRNNACYLN",
+        "pdbId": "5XN3",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5XN3.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCITSIAGCSCQSKVCYLN",
+        "pdbId": "6B67",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6B67.pdb"
+    },
+    {
+        "sequence": "GPPCYSTCRFIPACVKTTWPQCVCKDGVCVVQ",
+        "pdbId": "6DN5",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6DN5.pdb"
+    },
+    {
+        "sequence": "SIPCGESCVYLPCFSAIFGCRCNEYSLCVKG",
+        "pdbId": "6DN6",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6DN6.pdb"
+    },
+    {
+        "sequence": "SIPCGESCVYLPCFSAIFGCRCNENRICVKG",
+        "pdbId": "6DN7",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6DN7.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWLPCFTKYIGCGCQSKVCYY",
+        "pdbId": "6DN8",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6DN8.pdb"
+    },
+    {
+        "sequence": "GTPCGESCAFRPCISGRIGCQCKHRFCYR",
+        "pdbId": "6HLB",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6HLB.pdb"
+    },
+    {
+        "sequence": "IPCGERCEFMPCYTRVIACSCRNKVCYRGSS",
+        "pdbId": "6HLD",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6HLD.pdb"
+    },
+    {
+        "sequence": "SMPCGETCYFIPCLTKLINCECVNNICVLGA",
+        "pdbId": "6HZA",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6HZA.pdb"
+    },
+    {
+        "sequence": "IPCLESCVHLPCIFTGPTLGCSCKNNVCYR",
+        "pdbId": "6JWM",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6JWM.pdb"
+    },
+    {
+        "sequence": "GIPCGESCGESCVFIPCLTSAIGCSCKSKVCYRN",
+        "pdbId": "6JWN",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6JWN.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYIPCITAALGCSCKSKVCYRN",
+        "pdbId": "6M5E",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6M5E.pdb"
+    },
+    {
+        "sequence": "GTIPCGESCVFIPCISSVLGCSCKSKVCYKN",
+        "pdbId": "6NDY",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6NDY.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCISSVLGCSCKSKVCYRN",
+        "pdbId": "6NNV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6NNV.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISTLLGCSCKSKVCYRN",
+        "pdbId": "6OO2",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6OO2.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVYIPCISVVIGCSCRNKVCYR",
+        "pdbId": "6RK9",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6RK9.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVYLPCFTKVFKCKCKNKVCYR",
+        "pdbId": "6U4A",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U4A.pdb"
+    },
+    {
+        "sequence": "PCGESCVYLPCFTKVFKCKCKNKVCYR",
+        "pdbId": "6U61",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U61.pdb"
+    },
+    {
+        "sequence": "IPCGESCVYIPCLTSVIKCKCKNKVCYR",
+        "pdbId": "6U6K",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U6K.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVYIPCLTSVIKCKCKNKVCYR",
+        "pdbId": "6U6L",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U6L.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVYIPCISKILGCSCKNKVCYR",
+        "pdbId": "6U71",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U71.pdb"
+    },
+    {
+        "sequence": "QQYCGESCYVLPCFTQGCHCVSGQCVRDN",
+        "pdbId": "6U72",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U72.pdb"
+    },
+    {
+        "sequence": "IPCGESCVWIPCLTSVFKCKCKNKVCYR",
+        "pdbId": "6U74",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U74.pdb"
+    },
+    {
+        "sequence": "IPCGESCVYIPCISQVIGCKCKNKVCYR",
+        "pdbId": "6U8G",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U8G.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVWIPCISKVIGCSCKNKVCYR",
+        "pdbId": "6U8H",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U8H.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVYIPCISQVIGCKCKNKVCYR",
+        "pdbId": "6U8I",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U8I.pdb"
+    },
+    {
+        "sequence": "IPCGESCVFIPCISQVVGCKCKNKVCYR",
+        "pdbId": "6U8M",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U8M.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVFIPCISQVVGCKCKNKVCYR",
+        "pdbId": "6ULP",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6ULP.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVWIPCISAAIGCSCKNKVCYR",
+        "pdbId": "6ULQ",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6ULQ.pdb"
+    },
+    {
+        "sequence": "VIPCGESCVYIPCISTVIGCSCQNKVCYRN",
+        "pdbId": "6ULT",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6ULT.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVWIPCISSVVGCKCKNKVCYR",
+        "pdbId": "6ULV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6ULV.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVWIPCISAAIGCSCRSKVCYR",
+        "pdbId": "6UXS",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6UXS.pdb"
+    },
+    {
+        "sequence": "IPCGESCVYIPCLTAAIGCSCKNKVCYR",
+        "pdbId": "6WGN",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6WGN.pdb"
+    },
+    {
+        "sequence": "IPCGESCVYIPCISKVIGCSCKNKVCYR",
+        "pdbId": "6XIB",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XIB.pdb"
+    },
+    {
+        "sequence": "ZLPCGESCVWIPCISSVIGCSCRNKVCYR",
+        "pdbId": "6XIC",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XIC.pdb"
+    },
+    {
+        "sequence": "FQCGESCGMITTYCFTSVIGCSCKGRVCVR",
+        "pdbId": "6XID",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XID.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVYIPCISAVIGCKCQNKVCYR",
+        "pdbId": "6XIE",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XIE.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVYIPCISSVLGCSCKNKVCYR",
+        "pdbId": "6XIF",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XIF.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVFIPCISSVIGCSCKNKVCYR",
+        "pdbId": "6XS5",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XS5.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVYIPCLTAAIGCSCKNKVCYR",
+        "pdbId": "6XS7",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XS7.pdb"
+    },
+    {
+        "sequence": "ZLPCGESCVWIPCISSVIGCSCRNKVCYR",
+        "pdbId": "6XS8",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XS8.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVYIPCISKVIGCSCKNKVCYR",
+        "pdbId": "6XS9",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XS9.pdb"
+    },
+    {
+        "sequence": "ETPCGESCVWIPCLTGVIGCSCRNKVCYM",
+        "pdbId": "6XSA",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XSA.pdb"
+    },
+    {
+        "sequence": "VPCGESCVFLGCFIPGCSCKNKVCYF",
+        "pdbId": "6Y8K",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6Y8K.pdb"
+    },
+    {
+        "sequence": "ZLPCGESCVWIPCISSVIGCSCRNKVCYR",
+        "pdbId": "6YW1",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6YW1.pdb"
+    },
+    {
+        "sequence": "AIPCGETCVILGCFIPGCKCKNKVCYF",
+        "pdbId": "6YW2",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6YW2.pdb"
+    },
+    {
+        "sequence": "AVPCGESCVFLGCFIPGCSCKNKVCYF",
+        "pdbId": "6YW3",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6YW3.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYIPCTVTALLGCSCQDKVCYKN",
+        "pdbId": "6YW4",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6YW4.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCVCSWPVCTRN",
+        "pdbId": "7AR4",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7AR4.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCVCSWPICTRN",
+        "pdbId": "7BPH",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7BPH.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCVGGTCNTPGCVCSWPICTRN",
+        "pdbId": "7E5E",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7E5E.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCVCAWPICTRN",
+        "pdbId": "7EZW",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7EZW.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVTGSCYTPGCSCSWPVCKRN",
+        "pdbId": "7JRH",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7JRH.pdb"
+    },
+    {
+        "sequence": "ALPVCGETCVGGTCNTPGCSCSWPVCTRN",
+        "pdbId": "7K2E",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2E.pdb"
+    },
+    {
+        "sequence": "SKDNCGESCFAGKCYTPGCTCEYPICMNN",
+        "pdbId": "7K2F",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2F.pdb"
+    },
+    {
+        "sequence": "GTIPCGESCVFIPCLTSAIGCSCKKVCYKN",
+        "pdbId": "7K2G",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2G.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCITGTIGCSCKSKVCYTN",
+        "pdbId": "7K2H",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2H.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCISSIVGCSCKSKVCYKN",
+        "pdbId": "7K2I",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2I.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVFIPCLTSAIGCSCKSKVCYRN",
+        "pdbId": "7K2J",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2J.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVFIPCISSIVGCSCKSKVCYR",
+        "pdbId": "7K2K",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2K.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVWVPCTVTALMGCSCVREVCRIS",
+        "pdbId": "7K2L",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2L.pdb"
+    },
+    {
+        "sequence": "GAIYCGESCVLIPCISSVIGCRCENKVCVHR",
+        "pdbId": "7K2M",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2M.pdb"
+    },
+    {
+        "sequence": "GSVIKCGESCLLGKCYTPGCTCSRPICKGK",
+        "pdbId": "7K2N",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2N.pdb"
+    },
+    {
+        "sequence": "GHPDGAVPCFESCVFVPCISSVVGCRCENNVCVK",
+        "pdbId": "7K2O",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2O.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCITSAIGCSCSSKVCYRN",
+        "pdbId": "7K2P",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2P.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCLTSAIGCSCSSKVCYKN",
+        "pdbId": "7K2Q",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2Q.pdb"
+    },
+    {
+        "sequence": "GTFPCGESCVFIPCISSVVGCSCKSKVCYKN",
+        "pdbId": "7K2R",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2R.pdb"
+    },
+    {
+        "sequence": "GFPCGESCVYIPCLTAAIGCSCKNKVCYKN",
+        "pdbId": "7K2S",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7K2S.pdb"
+    },
+    {
+        "sequence": "GSVPCGESCVWIPCISSVVGCSCSNKVCYMN",
+        "pdbId": "7KEV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7KEV.pdb"
+    },
+    {
+        "sequence": "GLKAAVPCGESCVWIPCVTSVVGCSCSNKVCYN",
+        "pdbId": "7KFA",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7KFA.pdb"
+    },
+    {
+        "sequence": "GIPCGESCAYAPCFTSLISCTCSRKGCYH",
+        "pdbId": "7L4Z",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7L4Z.pdb"
+    },
+    {
+        "sequence": "GAFCFETCVFLPCFSSGIGCYCAWHYCVQD",
+        "pdbId": "7LIB",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7LIB.pdb"
+    },
+    {
+        "sequence": "GVACGESCIIRPCIFTAILGCRCRFTVCVN",
+        "pdbId": "7MSO",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7MSO.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGSCYTPGCTCSWPVCTRN",
+        "pdbId": "7RNW",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7RNW.pdb"
+    },
+    {
+        "sequence": "GVPICGESCFKGACYTPGCTCNWPVCERN",
+        "pdbId": "7ROV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7ROV.pdb"
+    },
+    {
+        "sequence": "GSYISCGETCVKLKCYTPGCKCTWPACKKN",
+        "pdbId": "7S5H",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7S5H.pdb"
+    },
+    {
+        "sequence": "ASSTCGKTCFGGICNTPGCSCSSWPMCMKN",
+        "pdbId": "7UBC",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7UBC.pdb"
+    },
+    {
+        "sequence": "GIVYCGETCGGTRCYTPGCSCRYPYCSKN",
+        "pdbId": "7UBD",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7UBD.pdb"
+    },
+    {
+        "sequence": "GSIFNCGETCVFGTCYTPGCSCVYGACSKD",
+        "pdbId": "7UBE",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7UBE.pdb"
+    },
+    {
+        "sequence": "GDRAVCGETCFTGICYTPICVCGKWDLCRMN",
+        "pdbId": "7UBF",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7UBF.pdb"
+    },
+    {
+        "sequence": "GDYYACRESCHKTKCHTPGCICGWPGLCAKN",
+        "pdbId": "7UBG",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7UBG.pdb"
+    },
+    {
+        "sequence": "GLNCGESCWGFHCDRHDCTCGLTWPYCSKN",
+        "pdbId": "7UBH",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7UBH.pdb"
+    },
+    {
+        "sequence": "GSFSRCSGSCRNTPCPPGCFCTTRFTCI",
+        "pdbId": "7UBI",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7UBI.pdb"
+    },
+    {
+        "sequence": "GTIFDCGETCALGTCYTPHCSCGKFFLCYGTD",
+        "pdbId": "7UZL",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7UZL.pdb"
+    },
+    {
+        "sequence": "GTIFDCGETCFLGKCYTPGCSCGEYKVCYGTN",
+        "pdbId": "7YUZ",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7YUZ.pdb"
+    },
+    {
+        "sequence": "GYNCGETCWGFHCDRDDCSCGLTWPYCSKN",
+        "pdbId": "7YV1",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7YV1.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTALVGCSCSEKVCYYN",
+        "pdbId": "7Z4S",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/7Z4S.pdb"
+    },
+    {
+        "sequence": "GHYCGETCFFIPCASSLIDCECHNDYCYRN",
+        "pdbId": "8CTO",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8CTO.pdb"
+    },
+    {
+        "sequence": "GVPCGESCNVIPCIASLSCRCKSKVCFQN",
+        "pdbId": "8CUN",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8CUN.pdb"
+    },
+    {
+        "sequence": "GVTCRETCYSQDCYSAWAGCKCNDGACFIN",
+        "pdbId": "8CWA",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8CWA.pdb"
+    },
+    {
+        "sequence": "GPPCGDTCVFDPCLVSAPCKCKNRVCYRN",
+        "pdbId": "8DNQ",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8DNQ.pdb"
+    },
+    {
+        "sequence": "GVNAHCYESCYVIPCLTEIVGCACRGNVCRPK",
+        "pdbId": "8EHV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8EHV.pdb"
+    },
+    {
+        "sequence": "GEVPCIETCFITECFGFYYGCTCQSGLCKKKK",
+        "pdbId": "8F1F",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8F1F.pdb"
+    },
+    {
+        "sequence": "GRFSCGETCFTSACHFRDIGCQCVNSQCSR",
+        "pdbId": "8F4B",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8F4B.pdb"
+    },
+    {
+        "sequence": "GRSCRETCIYTSCFVTGCKCDDGACIR",
+        "pdbId": "8JJS",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8JJS.pdb"
+    },
+    {
+        "sequence": "GRNCGETCAFIPCISWGCSCEFRGALKYCFKN",
+        "pdbId": "8PKU",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8PKU.pdb"
+    },
+    {
+        "sequence": "GVLCAESCTFTSCFLTGCTCERNFCFRN",
+        "pdbId": "8PKV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8PKV.pdb"
+    },
+    {
+        "sequence": "GSCGETCKYFGCYSMIVGCKCNRNKMCYK",
+        "pdbId": "8PKW",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8PKW.pdb"
+    },
+    {
+        "sequence": "GYTCIETCIIWDCESSIYGCSCQSGLCKMAK",
+        "pdbId": "8PKX",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8PKX.pdb"
+    },
+    {
+        "sequence": "GINLFCLETCFFMPCLSEIIGCSCYRGGCYIIY",
+        "pdbId": "8Q1N",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8Q1N.pdb"
+    },
+    {
+        "sequence": "GKPFCGELCSRFICYHEDCTCEWPVCTK",
+        "pdbId": "8R8U",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8R8U.pdb"
+    },
+    {
+        "sequence": "GFPYVSCGETCLLGECYTEGCFCGVSICYREE",
+        "pdbId": "8R8V",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8R8V.pdb"
+    },
+    {
+        "sequence": "GCGGETCLQGKCFANDCICDWPYCKK",
+        "pdbId": "8VX7",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8VX7.pdb"
+    },
+    {
+        "sequence": "GLNCGETCWGFSCDRDDCSCGFTWPYCSKN",
+        "pdbId": "8WW0",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8WW0.pdb"
+    },
+    {
+        "sequence": "GLNCGETCWGFSCDRDDCSCGFTWPYCSKN",
+        "pdbId": "8WW1",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/8WW1.pdb"
+    },
+    {
+        "sequence": "GLNCGETCWGFTCNRADCSCGFTYPYCSKN",
+        "pdbId": "9BT3",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/9BT3.pdb"
+    },
+    {
+        "sequence": "GVYCGETCKYTACRTIGCSCNSNQMCYK",
+        "pdbId": "9BT6",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/9BT6.pdb"
+    },
+    {
+        "sequence": "GKFCFETCRSSGCASGTFGCSCEGTMCRGN",
+        "pdbId": "9BT7",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/9BT7.pdb"
+    },
+    {
+        "sequence": "GYSGGCGETCFHKPCASMAYGCSCKDGACST",
+        "pdbId": "1BZH",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1BZH.pdb"
+    },
+    {
+        "sequence": "GDACGDTCVFFGCDDPGCTCGVLSICYRN",
+        "pdbId": "1D7T",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1D7T.pdb"
+    },
+    {
+        "sequence": "GYSGGCGETCVTVRCFTFPLCTCKNGKCTK",
+        "pdbId": "1DFY",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1DFY.pdb"
+    },
+    {
+        "sequence": "GLIPCGESCAWFPFCFTETIGCSCQNKICYFM",
+        "pdbId": "1DFZ",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1DFZ.pdb"
+    },
+    {
+        "sequence": "GLPVCGESCVGGTCNTPGCSCTWPLCTRN",
+        "pdbId": "1DG0",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1DG0.pdb"
+    },
+    {
+        "sequence": "GEICGRVQWCNSKSPCPAGCYCSYSGHCVKN",
+        "pdbId": "1FOZ",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1FOZ.pdb"
+    },
+    {
+        "sequence": "GIPCGETCVFSGCYSVTFGCACEKRVCYKN",
+        "pdbId": "1IM7",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1IM7.pdb"
+    },
+    {
+        "sequence": "GFVHDPNFLNCGETCWGGTCNSVGCSCGFSWPYCTKN",
+        "pdbId": "1QFB",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1QFB.pdb"
+    },
+    {
+        "sequence": "GKSGSCGESCYKTTCSSSFYGCSCNPVNSWCWQN",
+        "pdbId": "1SLE",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/1SLE.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCTCSWPVCSRN",
+        "pdbId": "2CK0",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/2CK0.pdb"
+    },
+    {
+        "sequence": "GSIFNCGETCIMGTCYTPGCSCVYGACSKN",
+        "pdbId": "2F58",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/2F58.pdb"
+    },
+    {
+        "sequence": "ALPVCGESCFQGACYTPGCVCSWPVCVQN",
+        "pdbId": "2KDQ",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/2KDQ.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYIPCISAVIGCSCSSKVCYRN",
+        "pdbId": "3F58",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/3F58.pdb"
+    },
+    {
+        "sequence": "GAFPCGESCVYIGCITSIAGCSCSDNVCYKN",
+        "pdbId": "3OE0",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/3OE0.pdb"
+    },
+    {
+        "sequence": "LPLCGGETCTFGTCDTPGCTCGYWPFCTKD",
+        "pdbId": "3WMG",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/3WMG.pdb"
+    },
+    {
+        "sequence": "GSIGPCGESCFKGKCYTPGCTCDWPICKKN",
+        "pdbId": "4IB5",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4IB5.pdb"
+    },
+    {
+        "sequence": "SDTGYCNESCGTNECTTLGCICRKKVCVID",
+        "pdbId": "4M1D",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4M1D.pdb"
+    },
+    {
+        "sequence": "SLPCGESCVYIPCISGLLGCSCKNKVCYYN",
+        "pdbId": "4N7Y",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4N7Y.pdb"
+    },
+    {
+        "sequence": "GLNCGETCWGFHCDSPGCSCGLTWPYCSKN",
+        "pdbId": "4N84",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4N84.pdb"
+    },
+    {
+        "sequence": "IFDCGESCIMGKCYTPGCSCGSWKMCYGTN",
+        "pdbId": "4Q2K",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4Q2K.pdb"
+    },
+    {
+        "sequence": "GRAVCGETCFTGICYTPVCVCGKWDLCRMN",
+        "pdbId": "4ZJX",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/4ZJX.pdb"
+    },
+    {
+        "sequence": "GFTEPCGETCRILACGIPGCQCYARICYWN",
+        "pdbId": "5J0M",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5J0M.pdb"
+    },
+    {
+        "sequence": "GKFCSETCMSFPCFTKAIGCSCESKRCYKN",
+        "pdbId": "5J1O",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5J1O.pdb"
+    },
+    {
+        "sequence": "LDLCFESCIYLGCISSAFGCYCYNLLCVKD",
+        "pdbId": "5J31",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5J31.pdb"
+    },
+    {
+        "sequence": "GIPCAETCLWRPCHTAIIGCSCEYNFCHKN",
+        "pdbId": "5JM4",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5JM4.pdb"
+    },
+    {
+        "sequence": "GIHCAETCLWRPCHTAIIGCSCEHNICYKN",
+        "pdbId": "5LSO",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5LSO.pdb"
+    },
+    {
+        "sequence": "RDLCFETCITFGCISASFGCYCYNLLCVKD",
+        "pdbId": "5N99",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5N99.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISAAIGCSCKNKVCYRD",
+        "pdbId": "5VAV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5VAV.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCISGVLGCSCSNKVCYRN",
+        "pdbId": "5VFW",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5VFW.pdb"
+    },
+    {
+        "sequence": "GSVPCGESCVWIPCISGILGCSCSNKVCYYN",
+        "pdbId": "5W5S",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W5S.pdb"
+    },
+    {
+        "sequence": "SIPCGESCVWIPCTVTALAGCSCKNKVCYKN",
+        "pdbId": "5W5U",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W5U.pdb"
+    },
+    {
+        "sequence": "GLPCGESCVFLPCTVTAIIGCSCKSKVCYKN",
+        "pdbId": "5W6I",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W6I.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISSAIGCSCKNKVCYKN",
+        "pdbId": "5W6R",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W6R.pdb"
+    },
+    {
+        "sequence": "GIACGESCAYFGCWIPGCSCKDKVCYIN",
+        "pdbId": "5W6T",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W6T.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVFIPCITTVIGCSCKDKVCTYN",
+        "pdbId": "5W6U",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5W6U.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVFIPCFTTVVGCSCKDKVCYNN",
+        "pdbId": "5XN3",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/5XN3.pdb"
+    },
+    {
+        "sequence": "GVACGESCAYFGCWIPGCSCKDKVCYFN",
+        "pdbId": "6B67",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6B67.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVFIPCLTSVVGCSCKDKVCYNN",
+        "pdbId": "6DN5",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6DN5.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCFTGKCYTPGCTCGAYFVCLKN",
+        "pdbId": "6DN6",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6DN6.pdb"
+    },
+    {
+        "sequence": "GMPCGESCVWIPCLSAIAGCSCKNKVCYNN",
+        "pdbId": "6DN7",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6DN7.pdb"
+    },
+    {
+        "sequence": "GYELCGETCALSGGCNTGGCQCAWPVCIKN",
+        "pdbId": "6DN8",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6DN8.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCLTSAIGCSCKSKVCYKN",
+        "pdbId": "6HLB",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6HLB.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCLTSAIGCSCSKV",
+        "pdbId": "6HLD",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6HLD.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCITSAIGCSCKAPLSNIM",
+        "pdbId": "6HZA",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6HZA.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCTVTALLGCSCKLALIFF",
+        "pdbId": "6JWM",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6JWM.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCLTAAIGCSCKSKVCYRN",
+        "pdbId": "6JWN",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6JWN.pdb"
+    },
+    {
+        "sequence": "GTPCGESCVYIPCISGVIGCSCTDKVCYLN",
+        "pdbId": "6B67",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6B67.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCSCDPWPMCSRN",
+        "pdbId": "6DN5",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6DN5.pdb"
+    },
+    {
+        "sequence": "GVPICGETCVGGTCNTPGCSCSWPVCTRN",
+        "pdbId": "6DN6",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6DN6.pdb"
+    },
+    {
+        "sequence": "GLPICGETCVGGSCNTPGCSCSWPVCTRN",
+        "pdbId": "6DN7",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6DN7.pdb"
+    },
+    {
+        "sequence": "GVPICGETCTLGTCYTAGCSCSWPVCTRN",
+        "pdbId": "6DN8",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6DN8.pdb"
+    },
+    {
+        "sequence": "GVPVCGETCFGGTCNTPGCSCDPWPVCSRN",
+        "pdbId": "6HLB",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6HLB.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCSCETWPVCSRN",
+        "pdbId": "6HLD",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6HLD.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISAAIGCSCKNKVCYRN",
+        "pdbId": "6HZA",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6HZA.pdb"
+    },
+    {
+        "sequence": "GTACGESCYVLPCFTVGCTCTSSQCFKN",
+        "pdbId": "6JWM",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6JWM.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCLTTVAGCSCKNKVCYRN",
+        "pdbId": "6JWN",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6JWN.pdb"
+    },
+    {
+        "sequence": "GFPCGESCVFIPCISAAIGCSCKNKVCYRN",
+        "pdbId": "6M5E",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6M5E.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCSCSRPVCTXN",
+        "pdbId": "6NDY",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6NDY.pdb"
+    },
+    {
+        "sequence": "SISCGESCAMISFCFTEVIGCSCKNKVCYLN",
+        "pdbId": "6NNV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6NNV.pdb"
+    },
+    {
+        "sequence": "GIPCGESCHYIPCVTSAIGCSCRNRSCMRN",
+        "pdbId": "6OO2",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6OO2.pdb"
+    },
+    {
+        "sequence": "GIPCGDSCHYIPCVTSTIGCSCTNGSCMRN",
+        "pdbId": "6RK9",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6RK9.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFTGTCYTNGCTCDPWPVCTRN",
+        "pdbId": "6U4A",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U4A.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCICDPWPVCTRN",
+        "pdbId": "6U61",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U61.pdb"
+    },
+    {
+        "sequence": "SAIACGESCVYIPCFIPGCSCRNRVCYLN",
+        "pdbId": "6U6K",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U6K.pdb"
+    },
+    {
+        "sequence": "SISCGESCVYIPCTVTALVGCTCKDKVCYLN",
+        "pdbId": "6U6L",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U6L.pdb"
+    },
+    {
+        "sequence": "GSPIQCAETCFIGKCYTEELGCTCTAFLCMKN",
+        "pdbId": "6U71",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U71.pdb"
+    },
+    {
+        "sequence": "GSPRQCAETCFIGKCYTEELGCTCTAFLCMKN",
+        "pdbId": "6U72",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U72.pdb"
+    },
+    {
+        "sequence": "GSVPCGESCVYIPCFTGIAGCSCKSKVCYYN",
+        "pdbId": "6U74",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U74.pdb"
+    },
+    {
+        "sequence": "GEIPCGESCVYLPCFLPNCYCRNHVCYLN",
+        "pdbId": "6U8G",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U8G.pdb"
+    },
+    {
+        "sequence": "SISCGETCTTFNCWIPNCKCNHHDKVCYWN",
+        "pdbId": "6U8H",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U8H.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCISGVIGCSCKSKVCYRN",
+        "pdbId": "6U8I",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U8I.pdb"
+    },
+    {
+        "sequence": "GIACGESCAYFGCWIPGCSCRNKVCYFN",
+        "pdbId": "6U8M",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6U8M.pdb"
+    },
+    {
+        "sequence": "GTPCGESCVYIPCFTAVVGCTCKDKVCYLN",
+        "pdbId": "6ULP",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6ULP.pdb"
+    },
+    {
+        "sequence": "GTPCAESCVYLPCFTGVIGCTCKDKVCYLN",
+        "pdbId": "6ULQ",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6ULQ.pdb"
+    },
+    {
+        "sequence": "GNIPCGESCIFFPCFNPGCSCKDNLCYYN",
+        "pdbId": "6ULT",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6ULT.pdb"
+    },
+    {
+        "sequence": "GGTIFDCGESCFLGTCYTKGCSCGEWKLCYGEN",
+        "pdbId": "6ULV",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6ULV.pdb"
+    },
+    {
+        "sequence": "GSVLNCGETCLLGTCYTTGCTCNKYRVCTKD",
+        "pdbId": "6UXS",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6UXS.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTALLGCSCSNNVCYN",
+        "pdbId": "6WGN",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6WGN.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISAAIGCSCKSKVCYRN",
+        "pdbId": "6XIB",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XIB.pdb"
+    },
+    {
+        "sequence": "SAISCGETCFKFKCYTPRCSCSYPVCK",
+        "pdbId": "6XIC",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XIC.pdb"
+    },
+    {
+        "sequence": "GSIPACGESCFKGKCYTPGCSCSKYPLCAKN",
+        "pdbId": "6XID",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XID.pdb"
+    },
+    {
+        "sequence": "GLVPCGETCFTGKCYTPGCSCSYPICKKN",
+        "pdbId": "6XIE",
+        "cyclisation": "e2e+s2s",
+        "pdbFile": "/pdb_files/6XIE.pdb"
+    },
+    {
+        "sequence": "GLPCGETCFTGKCYTPGCSCSYPICKKIN",
+        "pdbId": "6XIF",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6XIF.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISAAIGCSCKNKVCYRN",
+        "pdbId": "6XS5",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6XS5.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYIPCTVTALAGCKCKSKVCYN",
+        "pdbId": "6XS7",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6XS7.pdb"
+    },
+    {
+        "sequence": "GTLPCGESCVWIPCISSVVGCSCKSKVCYKD",
+        "pdbId": "6XS8",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6XS8.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCLTSAIGCSCKSKVCYRD",
+        "pdbId": "6XS9",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6XS9.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVTGSCYTPGCTCSWPVCTRN",
+        "pdbId": "6XSA",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6XSA.pdb"
+    },
+    {
+        "sequence": "GLPICGETCVGGTCNTPGCTCSWPVCTRN",
+        "pdbId": "6Y8K",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6Y8K.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCFGGTCNTPGCTCDSSWPICTHN",
+        "pdbId": "6YW1",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6YW1.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCFGGTCNTPGCTCDPWPVCTHN",
+        "pdbId": "6YW2",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6YW2.pdb"
+    },
+    {
+        "sequence": "DIFCGETCAFIPCITHVPGTCSCKSKVCYFN",
+        "pdbId": "6YW3",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6YW3.pdb"
+    },
+    {
+        "sequence": "GSVFNCGETCVLGTCYTPGCTCNTYRVCTKD",
+        "pdbId": "6YW4",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6YW4.pdb"
+    },
+    {
+        "sequence": "GSVFNCGETCVLGTCYTPGCTCNTYRVCTKD",
+        "pdbId": "7AR4",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7AR4.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCFGGTCNTPGCSCSSWPICTRD",
+        "pdbId": "7BPH",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7BPH.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCFGGTCNTPGCSCSSWPICTRD",
+        "pdbId": "7E5E",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7E5E.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCSCTDPICTRD",
+        "pdbId": "7EZW",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7EZW.pdb"
+    },
+    {
+        "sequence": "GSLCGDTCFVLGCNDSSCSCNYPICVKD",
+        "pdbId": "7JRH",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7JRH.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCACDPWPVCTRD",
+        "pdbId": "7K2E",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2E.pdb"
+    },
+    {
+        "sequence": "GLPVCGESCFGGTCNTPGCACDPWPVCTRD",
+        "pdbId": "7K2F",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2F.pdb"
+    },
+    {
+        "sequence": "GLPVCGESCFGGSCYTPGCSCTWPICTRD",
+        "pdbId": "7K2G",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2G.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCTITALLGCKCQDKVCYD",
+        "pdbId": "7K2H",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2H.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCTITALLGCKCKDQVCYN",
+        "pdbId": "7K2I",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2I.pdb"
+    },
+    {
+        "sequence": "GVPCAESCVYIPCISTVLGCSCSNQVCYRN",
+        "pdbId": "7K2J",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2J.pdb"
+    },
+    {
+        "sequence": "GFIPCGETCIWDKTCHAAGCSCSVANICVRN",
+        "pdbId": "7K2K",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2K.pdb"
+    },
+    {
+        "sequence": "GADGFCGESCVYIPCISYLVGCSCDTIEKVCKRN",
+        "pdbId": "7K2L",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2L.pdb"
+    },
+    {
+        "sequence": "GGTIFDCGETCFLGTCYTPGCSCGNYGFCYGTN",
+        "pdbId": "7K2M",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2M.pdb"
+    },
+    {
+        "sequence": "GGTIFDCGESCFLGTCYTAGCSCGNWGLCYGTN",
+        "pdbId": "7K2N",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2N.pdb"
+    },
+    {
+        "sequence": "GGTIFDCGETCFLGTCYTAGCSCGNWGLCYGTN",
+        "pdbId": "7K2O",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2O.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVFIPCITGVIGCSCSSNVCYLN",
+        "pdbId": "7K2P",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2P.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTALVGCSCSDKVCYN",
+        "pdbId": "7K2Q",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2Q.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCSCSYPICTRN",
+        "pdbId": "7K2R",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2R.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCTCSYPICTRN",
+        "pdbId": "7K2S",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2S.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCAFGSCYTPGCSCSWPVCTRN",
+        "pdbId": "7KEV",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7KEV.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGRCNTPGCTCSYPICTRN",
+        "pdbId": "7KFA",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7KFA.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTALIGCGCSNKVCYN",
+        "pdbId": "7L4Z",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7L4Z.pdb"
+    },
+    {
+        "sequence": "GTIPCGESCVFIPCLTSALGCSCKSKVCYKN",
+        "pdbId": "7LIB",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7LIB.pdb"
+    },
+    {
+        "sequence": "GTFPCGESCVFIPCLTSAIGCSCKSKVCYKN",
+        "pdbId": "7MSO",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7MSO.pdb"
+    },
+    {
+        "sequence": "GLLPCAESCVYIPCLTTVIGCSCKSKVCYKN",
+        "pdbId": "7RNW",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7RNW.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCLTSTVGCSCKSKVCYRN",
+        "pdbId": "7ROV",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7ROV.pdb"
+    },
+    {
+        "sequence": "GTFPCGESCVWIPCISKVIGCACKSKVCYKN",
+        "pdbId": "7S5H",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7S5H.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCLTSAVGCPCKSKVCYRN",
+        "pdbId": "7UBC",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7UBC.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYLPCFTAPLGCSCSSKVCYRN",
+        "pdbId": "7UBD",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7UBD.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCLTATIGCSCKSKVCYRN",
+        "pdbId": "7UBE",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7UBE.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYLPCVTIVIGCSCKDKVCYN",
+        "pdbId": "7UBF",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7UBF.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTALLGCSCKDKVCYN",
+        "pdbId": "7UBG",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7UBG.pdb"
+    },
+    {
+        "sequence": "GRLCGERCVIERTRAWCRTVGCICSLHTLECVRN",
+        "pdbId": "7UBH",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7UBH.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCGCSWPVCTRN",
+        "pdbId": "7UBI",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7UBI.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCACSWPVCTRN",
+        "pdbId": "7UZL",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7UZL.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVYIPCISSLLGCSCKSKVCYKN",
+        "pdbId": "7YUZ",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7YUZ.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCLTSAIGCSCKSKVCYRN",
+        "pdbId": "7YV1",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7YV1.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYLPCFTTIIGCKCQGKVCYH",
+        "pdbId": "7Z4S",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7Z4S.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVFIPCISSVVGCSCKNKVCYKN",
+        "pdbId": "8CTO",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8CTO.pdb"
+    },
+    {
+        "sequence": "GTIPCGESCVFIPCLTSAIGCSCKSKVCYKN",
+        "pdbId": "8CUN",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8CUN.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVYIPCISSLLGCSCESKVCYKN",
+        "pdbId": "8CWA",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8CWA.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVFIPCISSIVGCSCKSKVCYKN",
+        "pdbId": "8DNQ",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8DNQ.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCLTSAIGCSCKSKVCYRN",
+        "pdbId": "8EHV",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8EHV.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVWIPCLTSIVGCSCKNNVCTLNS",
+        "pdbId": "8F1F",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8F1F.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISSVLGCSCKNKVCYRN",
+        "pdbId": "8F4B",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8F4B.pdb"
+    },
+    {
+        "sequence": "GHPTCGETCLLGTCYTPGCTCKRPVCYKN",
+        "pdbId": "8JJS",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8JJS.pdb"
+    },
+    {
+        "sequence": "GSAILCGESCTLGECYTPGCTCSWPICTKN",
+        "pdbId": "8PKU",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8PKU.pdb"
+    },
+    {
+        "sequence": "GHPICGETCVGNKCYTPGCTCTWPVCYRN",
+        "pdbId": "8PKV",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8PKV.pdb"
+    },
+    {
+        "sequence": "GSIPCGEGCVFIPCISSIVGCSCKSKVCYKN",
+        "pdbId": "8PKW",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8PKW.pdb"
+    },
+    {
+        "sequence": "GIPCGEGCVYLPCFTAPLGCSCSSKVCYRN",
+        "pdbId": "8PKX",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8PKX.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCLTAAIGCSCSSKVCYRN",
+        "pdbId": "8Q1N",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8Q1N.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVWIPCLTSAIGCSCKSSVCYRN",
+        "pdbId": "8R8U",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8R8U.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVLIPCISSVIGCSCKSKVCYRN",
+        "pdbId": "8R8V",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8R8V.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISSVIGCSCKSKVCYRN",
+        "pdbId": "8VX7",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8VX7.pdb"
+    },
+    {
+        "sequence": "GAGCIETCYTFPCISEMINCSCKNSRCQKN",
+        "pdbId": "8WW0",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8WW0.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISSAIGCSCKNKVCYRK",
+        "pdbId": "8WW1",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8WW1.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISGAIGCSCKSKVCYRN",
+        "pdbId": "9BT3",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/9BT3.pdb"
+    },
+    {
+        "sequence": "TIPCAESCVWIPCTVTALLGCSCKDKVCYN",
+        "pdbId": "9BT6",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/9BT6.pdb"
+    },
+    {
+        "sequence": "GLPICGETCTLGTCYTVGCTCSWPICTRN",
+        "pdbId": "9BT7",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/9BT7.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISTVIGCSCKNKVCYRN",
+        "pdbId": "1BZH",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1BZH.pdb"
+    },
+    {
+        "sequence": "GVPCAESCVWIPCTVTALLGCSCKDKVCYLN",
+        "pdbId": "1D7T",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1D7T.pdb"
+    },
+    {
+        "sequence": "GIPCGESCHIPCVTSAIGCSCRNRSCMRN",
+        "pdbId": "1DFY",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1DFY.pdb"
+    },
+    {
+        "sequence": "GSQSCGESCVLIPCISGVIGCSCSSMICYFN",
+        "pdbId": "1DFZ",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1DFZ.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCLTAAIGCSCRSKVCYRN",
+        "pdbId": "1DG0",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1DG0.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCSCSIPVCTRN",
+        "pdbId": "1FOZ",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1FOZ.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCSCSWPVCFRD",
+        "pdbId": "1IM7",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1IM7.pdb"
+    },
+    {
+        "sequence": "GAPVCGETCFGGTCNTPGCTCDPWPVCTND",
+        "pdbId": "1QFB",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1QFB.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPYCTCSWPVCTRD",
+        "pdbId": "1SLE",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1SLE.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTEYCTCSWPVCTRD",
+        "pdbId": "2CK0",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/2CK0.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPYCFCSWPVCTRD",
+        "pdbId": "2F58",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/2F58.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISGAIGCSCKSKVCYKN",
+        "pdbId": "2KDQ",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/2KDQ.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISSAIGCSCKNKVCFKN",
+        "pdbId": "3F58",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/3F58.pdb"
+    },
+    {
+        "sequence": "GSIPACGESCFRGKCYTPGCSCSKYPLCAKD",
+        "pdbId": "3OE0",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/3OE0.pdb"
+    },
+    {
+        "sequence": "GSIPACGESCFKGWCYTPGCSCSKYPLCAKD",
+        "pdbId": "3WMG",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/3WMG.pdb"
+    },
+    {
+        "sequence": "GSFPCGESCVFIPCISAIAGCSCKNKVCYKN",
+        "pdbId": "4IB5",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/4IB5.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCITAAIGCSCKTKVCYRN",
+        "pdbId": "4M1D",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/4M1D.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISAVLGCSCKSKVCYRN",
+        "pdbId": "4N7Y",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/4N7Y.pdb"
+    },
+    {
+        "sequence": "GIPCGETCVFMPCISGPMGCSCKHMVCYRN",
+        "pdbId": "4N84",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/4N84.pdb"
+    },
+    {
+        "sequence": "GSAFGCGETCVKGKCNTPGCVCSWPVCKKN",
+        "pdbId": "4Q2K",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/4Q2K.pdb"
+    },
+    {
+        "sequence": "APCGESCVYIPCLLTAPIGCSCSNIVCYRN",
+        "pdbId": "4ZJX",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/4ZJX.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVWVPCTVTALMGCSCVREVCRKD",
+        "pdbId": "5J0M",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5J0M.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTKMLGCSCKDKVCYN",
+        "pdbId": "5J1O",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5J1O.pdb"
+    },
+    {
+        "sequence": "GGSIPCIETCVWTGCFLVPGCSCKSDKKCYLN",
+        "pdbId": "5J31",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5J31.pdb"
+    },
+    {
+        "sequence": "GGSVPCIETCVWTGCFLVPGCSCKSDKKCYLN",
+        "pdbId": "5JM4",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5JM4.pdb"
+    },
+    {
+        "sequence": "GDIPLCGETCFEGGNCRIPGCTCVWPFCSKN",
+        "pdbId": "5LSO",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5LSO.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCFGGTCNTPGCTCDPFPVCTHD",
+        "pdbId": "5N99",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5N99.pdb"
+    },
+    {
+        "sequence": "GIPVCGETCVGGTCNTPGCSCSWPVCTRN",
+        "pdbId": "5VAV",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5VAV.pdb"
+    },
+    {
+        "sequence": "GIACGESCVFLGCFIPGCSCKSKVCYFN",
+        "pdbId": "5VFW",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5VFW.pdb"
+    },
+    {
+        "sequence": "GIPCGETCVAFGCWIPGCSCKDKLCYYD",
+        "pdbId": "5W5S",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5W5S.pdb"
+    },
+    {
+        "sequence": "KLCGETCFKFKCYTPGCSCSYPFCK",
+        "pdbId": "5W5U",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5W5U.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCTVTALLGCSCQNKVCYRD",
+        "pdbId": "5W6I",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5W6I.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISSVLGCSCKNKVCYRD",
+        "pdbId": "5W6R",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5W6R.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCITAAVGCSCKNKVCYRD",
+        "pdbId": "5W6T",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5W6T.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCAGGTCNTPGCSCSWPICTRN",
+        "pdbId": "5W6U",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5W6U.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCAGGTCNTPGCSCTWPICTRN",
+        "pdbId": "5XN3",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5XN3.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCAGGRCNTPGCSCSWPVCTRN",
+        "pdbId": "6B67",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6B67.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCTCDPWPVCTRN",
+        "pdbId": "6DN5",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6DN5.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCSCDPWPVCTRN",
+        "pdbId": "6DN6",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6DN6.pdb"
+    },
+    {
+        "sequence": "GFPCGESCVYVPCLTAAIGCSCSNKVCYKN",
+        "pdbId": "6DN7",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6DN7.pdb"
+    },
+    {
+        "sequence": "GLPICGETCFGGTCNTPGCICDPWPVCTRD",
+        "pdbId": "6DN8",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6DN8.pdb"
+    },
+    {
+        "sequence": "GSHCGETCFFFGCYKPGCSCDELRQCYKN",
+        "pdbId": "6HLB",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6HLB.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVFIPCLTAVVGCSCSNKVCYLN",
+        "pdbId": "6HLD",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6HLD.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFGGTCNTPGCACDPWPVCTRN",
+        "pdbId": "6HZA",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6HZA.pdb"
+    },
+    {
+        "sequence": "GVPCAESCVWIPCTVTALLGCSCKDKVCYLD",
+        "pdbId": "6JWM",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6JWM.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTALLGCSCKDKVCYLN",
+        "pdbId": "6JWN",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6JWN.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTALLGCSCKDKVCYLD",
+        "pdbId": "6M5E",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6M5E.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCISSVVGCSCKSKVCYLD",
+        "pdbId": "6NDY",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6NDY.pdb"
+    },
+    {
+        "sequence": "GLPCGESCVFIPCITTVVGCSCKNKVCYNN",
+        "pdbId": "6NNV",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6NNV.pdb"
+    },
+    {
+        "sequence": "GLPCGESCVFIPCITTVVGCSCKNKVCYND",
+        "pdbId": "6OO2",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6OO2.pdb"
+    },
+    {
+        "sequence": "GTVPCGESCVFIPCITGIAGCSCKNKVCYIN",
+        "pdbId": "6RK9",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6RK9.pdb"
+    },
+    {
+        "sequence": "GTVPCGESCVFIPCITGIAGCSCKNKVCYID",
+        "pdbId": "6U4A",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6U4A.pdb"
+    },
+    {
+        "sequence": "HEPCGESCVFIPCITTVVGCSCKNKVCYN",
+        "pdbId": "6U61",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6U61.pdb"
+    },
+    {
+        "sequence": "HEPCGESCVFIPCITTVVGCSCKNKVCYD",
+        "pdbId": "6U6K",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6U6K.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCTLGTCYVPDCSCSWPICMKN",
+        "pdbId": "6U6L",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6U6L.pdb"
+    },
+    {
+        "sequence": "GSAFCGETCVLGTCYTPDCSCTALVCLKN",
+        "pdbId": "6U71",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6U71.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCITGIAGCSCKSKVCYRN",
+        "pdbId": "6U72",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6U72.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCITAAIGCSCKSKVCYRN",
+        "pdbId": "6U74",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6U74.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCISTVIGCSCKNKVCYRN",
+        "pdbId": "6U8G",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6U8G.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCTVTALLGCSCKDKVCYKN",
+        "pdbId": "6U8H",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6U8H.pdb"
+    },
+    {
+        "sequence": "GYPICGESCVGGTCNTPGCSCSWPVCTTN",
+        "pdbId": "6U8I",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6U8I.pdb"
+    },
+    {
+        "sequence": "GLPICGETCVGGTCNTPGCFCTWPVCTRN",
+        "pdbId": "6U8M",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6U8M.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCFTGSCYTPGCSCNWPVCNRN",
+        "pdbId": "6ULP",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6ULP.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCSCSWPVCFRN",
+        "pdbId": "6ULQ",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6ULQ.pdb"
+    },
+    {
+        "sequence": "GTLPCGESCVWIPCISSVVGCACKSKVCYKD",
+        "pdbId": "6ULT",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6ULT.pdb"
+    },
+    {
+        "sequence": "GTRCGETCFVLPCWSAKFGCYCQKGFCYRN",
+        "pdbId": "6ULV",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6ULV.pdb"
+    },
+    {
+        "sequence": "GGSVPCGESCVFIPCITSLAGCSCKNKVCYYD",
+        "pdbId": "6UXS",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6UXS.pdb"
+    },
+    {
+        "sequence": "IQCGESCVWIPCISSAWGCSCKNKICSS",
+        "pdbId": "6WGN",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6WGN.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVFIPCISSVIGCACKSKVCYKN",
+        "pdbId": "6XIB",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6XIB.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCTIGTCYTAGCTCSWPICTRN",
+        "pdbId": "6XIC",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6XIC.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVYIPCITSVIGCSCSSKVCYIN",
+        "pdbId": "6XID",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6XID.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCISSVIGCSCSSKVCYRN",
+        "pdbId": "6XIE",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6XIE.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVFIPCISAVIGCSCSNKVCYKN",
+        "pdbId": "6XIF",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6XIF.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVFIPCISAIIGCSCSSKVCYKN",
+        "pdbId": "6XS5",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6XS5.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVFIPCISAIIGCSCSNKVCYKN",
+        "pdbId": "6XS7",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6XS7.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTVTAIVGCSCSWGVCYN",
+        "pdbId": "6XS8",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6XS8.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCISSVVGCSCKSKVCYNN",
+        "pdbId": "6XS9",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6XS9.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCLTTVVGCSCKNKVCYNN",
+        "pdbId": "6XSA",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6XSA.pdb"
+    },
+    {
+        "sequence": "GEFLKCGESCVQGECYTPGCSCDWPICKKN",
+        "pdbId": "6Y8K",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6Y8K.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCITGAIGCSCKSKVCYRD",
+        "pdbId": "6YW1",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6YW1.pdb"
+    },
+    {
+        "sequence": "QLPICGETCVLGTCYTPGCRCQYPICVR",
+        "pdbId": "6YW2",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6YW2.pdb"
+    },
+    {
+        "sequence": "QLPICGETCVLGRCYTPNCRCQYPICVR",
+        "pdbId": "6YW3",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6YW3.pdb"
+    },
+    {
+        "sequence": "QAFCGETCLLGTCYTPGCRCTAGICLK",
+        "pdbId": "6YW4",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6YW4.pdb"
+    },
+    {
+        "sequence": "QLPICGETCVLGTCYTPGCSCAYPICVR",
+        "pdbId": "7AR4",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7AR4.pdb"
+    },
+    {
+        "sequence": "QAFCGETCLLGKCYTPGCSCHTGICLK",
+        "pdbId": "7BPH",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7BPH.pdb"
+    },
+    {
+        "sequence": "QLPICGETCVLGTCYTPGCSCAYPICAR",
+        "pdbId": "7E5E",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7E5E.pdb"
+    },
+    {
+        "sequence": "QAFCGETCVLGTCYTPGCSCNFGICLK",
+        "pdbId": "7EZW",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7EZW.pdb"
+    },
+    {
+        "sequence": "QDCGETCVLGTCYTPGCSCSAYPLCV",
+        "pdbId": "7JRH",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7JRH.pdb"
+    },
+    {
+        "sequence": "GLPLCGETCAGGTCNTPGCSCSWPVCVRN",
+        "pdbId": "7K2E",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2E.pdb"
+    },
+    {
+        "sequence": "GSSPLCGETCAGGTCNTPGCSCSWPVCVRD",
+        "pdbId": "7K2F",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2F.pdb"
+    },
+    {
+        "sequence": "GLPLCGETCVGGTCNTPGCSCSWPVCTRN",
+        "pdbId": "7K2G",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2G.pdb"
+    },
+    {
+        "sequence": "GLPLCGETCVGGTCNTPACSCSWPVCTRN",
+        "pdbId": "7K2H",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2H.pdb"
+    },
+    {
+        "sequence": "GLPLCGETCVGGTCNTPGCSCGWPVCVRN",
+        "pdbId": "7K2I",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2I.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISSAIGCSCKGSKVCYRN",
+        "pdbId": "7K2J",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2J.pdb"
+    },
+    {
+        "sequence": "GTLPCGESCVWIPCISSVVGCSCKNKVCYKN",
+        "pdbId": "7K2K",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2K.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCITSAVGCSCKSKVCYRN",
+        "pdbId": "7K2L",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2L.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISSALGCSCKSKVCYRN",
+        "pdbId": "7K2M",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2M.pdb"
+    },
+    {
+        "sequence": "GTIPCGESCVWIPCISSVVGCSCKSKVCYKD",
+        "pdbId": "7K2N",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2N.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISTVIGCSCKDKVCYRN",
+        "pdbId": "7K2O",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2O.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIRCTITALLGCSCSNNVCYKN",
+        "pdbId": "7K2P",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2P.pdb"
+    },
+    {
+        "sequence": "LICSSTCLRIPCLSPRCTCRHHICYLN",
+        "pdbId": "7K2Q",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2Q.pdb"
+    },
+    {
+        "sequence": "GAICTGTCFRNPCLSRRCTCRHYICYLN",
+        "pdbId": "7K2R",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2R.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCTCSWPICTRN",
+        "pdbId": "7K2S",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7K2S.pdb"
+    },
+    {
+        "sequence": "GLPICGETCTLGTCNTPGCTCSWPICTKN",
+        "pdbId": "7KEV",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7KEV.pdb"
+    },
+    {
+        "sequence": "GLPICGETCFTGTCNTPGCTCSYPVCTRN",
+        "pdbId": "7KFA",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7KFA.pdb"
+    },
+    {
+        "sequence": "GSVICGETCFTTVCNTPGCYCGAYXCTRN",
+        "pdbId": "7L4Z",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7L4Z.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCTVTALLGCSCKNKVCYRN",
+        "pdbId": "7LIB",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7LIB.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCITAAIGCSCKKKVCYRN",
+        "pdbId": "7MSO",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7MSO.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCISALLGCSCSNKVCYNN",
+        "pdbId": "7RNW",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7RNW.pdb"
+    },
+    {
+        "sequence": "GVPCAESCVYIPCTITALFGCSCKDKVCYNN",
+        "pdbId": "7ROV",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7ROV.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCTITALLGCSCKDKVCYKN",
+        "pdbId": "7S5H",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7S5H.pdb"
+    },
+    {
+        "sequence": "GFPCAESCVYIPCTVTALLGCSCRNRVCYRN",
+        "pdbId": "7UBC",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7UBC.pdb"
+    },
+    {
+        "sequence": "IPCGESCVYIPCISAVLGCSCQNKVCYR",
+        "pdbId": "7UBD",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7UBD.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVYIPCTITALFGCSCKDKVCYNN",
+        "pdbId": "7UBE",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7UBE.pdb"
+    },
+    {
+        "sequence": "AIPCGESCVWIPCISTVIGCSCSNKVCYR",
+        "pdbId": "7UBF",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7UBF.pdb"
+    },
+    {
+        "sequence": "IPCGESCVWIPCITAIAGCSCKNKVCYT",
+        "pdbId": "7UBG",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7UBG.pdb"
+    },
+    {
+        "sequence": "GASCGETCFTGICFTAGCSCNPWPTCTRN",
+        "pdbId": "7UBH",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7UBH.pdb"
+    },
+    {
+        "sequence": "GIPCAESCVWIPCTITALMGCSCKNNVCYNN",
+        "pdbId": "7UBI",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7UBI.pdb"
+    },
+    {
+        "sequence": "GDACGETCFTGICFTAGCSCNPWPTCTRN",
+        "pdbId": "7UZL",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7UZL.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISSALGCSCKNKVCYRN",
+        "pdbId": "7YUZ",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7YUZ.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISSVVGCSCKNKVCYRN",
+        "pdbId": "7YV1",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7YV1.pdb"
+    },
+    {
+        "sequence": "GVIPCGESCVFIPCISSVIGCSCKNKVCYRN",
+        "pdbId": "7Z4S",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/7Z4S.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCVTTVIGCSCKDKVCYNN",
+        "pdbId": "8CTO",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8CTO.pdb"
+    },
+    {
+        "sequence": "GEYCGESCYLIPCFTPGCYCVSRQCVNKN",
+        "pdbId": "8CUN",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8CUN.pdb"
+    },
+    {
+        "sequence": "IPCGESCVWIPCISGMFGCSCKDKVCYS",
+        "pdbId": "8CWA",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8CWA.pdb"
+    },
+    {
+        "sequence": "EYCGESCYLIPCFTPGCYCVSRQCVNKN",
+        "pdbId": "8DNQ",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8DNQ.pdb"
+    },
+    {
+        "sequence": "GIGCGESCVWIPCVSAAIGCSCSNKICYRN",
+        "pdbId": "8EHV",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8EHV.pdb"
+    },
+    {
+        "sequence": "GIPCGESCMWIPCISAAIGCSCTNHVCYKN",
+        "pdbId": "8F1F",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8F1F.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWIPCISGVQGCSCSNKICYRN",
+        "pdbId": "8F4B",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8F4B.pdb"
+    },
+    {
+        "sequence": "GIPCGGSCVWIPCISGVQGCSCSNKICYRN",
+        "pdbId": "8JJS",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8JJS.pdb"
+    },
+    {
+        "sequence": "GIPCGESCAWIPCISAVQGCSCRNKICYRN",
+        "pdbId": "8PKU",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8PKU.pdb"
+    },
+    {
+        "sequence": "GLPCGESCIWIECISGAIGCSCRNKVCYRN",
+        "pdbId": "8PKV",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8PKV.pdb"
+    },
+    {
+        "sequence": "GIPCGESCIWIPCTTTALLGCSCSNKVCYKN",
+        "pdbId": "8PKW",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8PKW.pdb"
+    },
+    {
+        "sequence": "SYTCGESCLWIPCTVTAAFGCYCSNKVCVKD",
+        "pdbId": "8PKX",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8PKX.pdb"
+    },
+    {
+        "sequence": "STDCGEPCVYIPCTITALLGCSCLNKVCVRP",
+        "pdbId": "8Q1N",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8Q1N.pdb"
+    },
+    {
+        "sequence": "QSISCAETCVWIPCATSLIGCSCVNSICTYTN",
+        "pdbId": "8R8U",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8R8U.pdb"
+    },
+    {
+        "sequence": "GVPCGESCVWMYCISAAMGCSCRNKVCYRN",
+        "pdbId": "8R8V",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8R8V.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVWMYCITATMGCSCRNKVCYKN",
+        "pdbId": "8VX7",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8VX7.pdb"
+    },
+    {
+        "sequence": "GLPVCGETCVGGTCNTPGCSCSWPVCIRN",
+        "pdbId": "8WW0",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8WW0.pdb"
+    },
+    {
+        "sequence": "GLIPCGESCVWIPCISSVIGCSCKSKVCYKN",
+        "pdbId": "8WW1",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/8WW1.pdb"
+    },
+    {
+        "sequence": "GSIPCGESCVWIPCISGIAGCSCSNKVCYLN",
+        "pdbId": "9BT3",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/9BT3.pdb"
+    },
+    {
+        "sequence": "GSWPCGESCVYIPCITSIAGCECSKNVCYKN",
+        "pdbId": "9BT6",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/9BT6.pdb"
+    },
+    {
+        "sequence": "GTPCGESCIYVPCISAVFGCWCQSKVCYKD",
+        "pdbId": "9BT7",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/9BT7.pdb"
+    },
+    {
+        "sequence": "PTPCGETCIWISCVTAAIGCYCHESICYR",
+        "pdbId": "1BZH",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1BZH.pdb"
+    },
+    {
+        "sequence": "GTIFDCGETCLLGKCYTPGCSCGSWALCYGQN",
+        "pdbId": "1D7T",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1D7T.pdb"
+    },
+    {
+        "sequence": "GSSCGETCEVFSCFITRCACIDGLCYRN",
+        "pdbId": "1DFY",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1DFY.pdb"
+    },
+    {
+        "sequence": "GSDDQVACGESCAMTPCFMHVVGCVCSQKVCYR",
+        "pdbId": "1DFZ",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1DFZ.pdb"
+    },
+    {
+        "sequence": "GVPICGETCFQGTCNTPGCTCKWPICERN",
+        "pdbId": "1DG0",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1DG0.pdb"
+    },
+    {
+        "sequence": "GDLVPCGESCVYIPCLTTVLGCSCSENVCYRN",
+        "pdbId": "1FOZ",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1FOZ.pdb"
+    },
+    {
+        "sequence": "GGPLDCQETCTLSDRCYTKGCTCNWPICYKN",
+        "pdbId": "1IM7",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1IM7.pdb"
+    },
+    {
+        "sequence": "GAPVCGETCFTGLCYSSGCSCIYPVCNRN",
+        "pdbId": "1QFB",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1QFB.pdb"
+    },
+    {
+        "sequence": "GVAVCGETCTLGTCYTPGCSCDWPICKRN",
+        "pdbId": "1SLE",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/1SLE.pdb"
+    },
+    {
+        "sequence": "GLPTCGETCTLGTCYTPGCTCSWPLCTKN",
+        "pdbId": "2CK0",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/2CK0.pdb"
+    },
+    {
+        "sequence": "GEPVCGDSCVFFGCDDEGCTCGPWSLCYRN",
+        "pdbId": "2F58",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/2F58.pdb"
+    },
+    {
+        "sequence": "GAFTPCGETCLTGECHTEGCSCVGQTFCVKK",
+        "pdbId": "2KDQ",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/2KDQ.pdb"
+    },
+    {
+        "sequence": "GVPSSDCLETCFGGKCNAHRCTCSQWPLCAKN",
+        "pdbId": "3F58",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/3F58.pdb"
+    },
+    {
+        "sequence": "GFACGETCIFTSCFITGCTCNSSLCFRN",
+        "pdbId": "3OE0",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/3OE0.pdb"
+    },
+    {
+        "sequence": "GGTIFSCGESCFQGTCYTKGCACGDWKLCYGEN",
+        "pdbId": "3WMG",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/3WMG.pdb"
+    },
+    {
+        "sequence": "GDTCYETCFTGFCFIGGCKCDFPVCVKN",
+        "pdbId": "4IB5",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/4IB5.pdb"
+    },
+    {
+        "sequence": "GAPICGESCFTGTCYTVQCSCSWPVCTRN",
+        "pdbId": "4M1D",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/4M1D.pdb"
+    },
+    {
+        "sequence": "GGTIFNCGESCFQGTCYTKGCACGDWKLCYGEN",
+        "pdbId": "4N7Y",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/4N7Y.pdb"
+    },
+    {
+        "sequence": "GDIPCGESCVYIPCITGVLGCSCSHNVCYYN",
+        "pdbId": "4N84",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/4N84.pdb"
+    },
+    {
+        "sequence": "GSVFNCGETCVFGTCFTSGCSCVYRVCSKD",
+        "pdbId": "4Q2K",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/4Q2K.pdb"
+    },
+    {
+        "sequence": "GPPVCGETCVGGTCNTPGCSCSWPVCTRN",
+        "pdbId": "4ZJX",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/4ZJX.pdb"
+    },
+    {
+        "sequence": "GLPVCGEACVGGTCNTPGCSCSWPVCTRN",
+        "pdbId": "5J0M",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5J0M.pdb"
+    },
+    {
+        "sequence": "DTTPCGESCVWIPCVSSIVGCSCQNKVCYQN",
+        "pdbId": "5J1O",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5J1O.pdb"
+    },
+    {
+        "sequence": "DTIPCGESCVWIPCISSILGCSCKDKVCYHN",
+        "pdbId": "5J31",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5J31.pdb"
+    },
+    {
+        "sequence": "GLPICGETCFKTKCYTKGCSCSYPVCKRN",
+        "pdbId": "5JM4",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5JM4.pdb"
+    },
+    {
+        "sequence": "GSVIGCGETCLRGRCYTPGCTCDHGICKKN",
+        "pdbId": "5LSO",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5LSO.pdb"
+    },
+    {
+        "sequence": "GTVPCGESCVFIPCITGIAGCSCKNKVCYLN",
+        "pdbId": "5N99",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5N99.pdb"
+    },
+    {
+        "sequence": "GLPICGETCFTGTCYTPGCTCSYPVCKKN",
+        "pdbId": "5VAV",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5VAV.pdb"
+    },
+    {
+        "sequence": "GSVIKCGESCLLGKCYTPGCTCSRPICKKN",
+        "pdbId": "5VFW",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5VFW.pdb"
+    },
+    {
+        "sequence": "GSAIRCGESCLLGKCYTPGCTCDRPICKKN",
+        "pdbId": "5W5S",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5W5S.pdb"
+    },
+    {
+        "sequence": "DLQCAETCVHSPCIGPCYCKHGLICYRN",
+        "pdbId": "5W5U",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5W5U.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCITGAIGCSCKSKVCYRN",
+        "pdbId": "5W6I",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5W6I.pdb"
+    },
+    {
+        "sequence": "SIPCGESCVYIPCLTTIVGCSCKNSVCYSN",
+        "pdbId": "5W6R",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5W6R.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVYIPCTVTALLGCSCKDKVCYKN",
+        "pdbId": "5W6T",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5W6T.pdb"
+    },
+    {
+        "sequence": "GIPCGESCVFIPCTITALLGCSCKDKVCYKN",
+        "pdbId": "5W6U",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5W6U.pdb"
+    },
+    {
+        "sequence": "GGSIPCGESCVFLPCFLPGCSCKSSVCYLN",
+        "pdbId": "5XN3",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/5XN3.pdb"
+    },
+    {
+        "sequence": "GDLFKCGETCFGGTCYTPGCSCDYPICKNN",
+        "pdbId": "6B67",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6B67.pdb"
+    },
+    {
+        "sequence": "GFNSCSEACVYLPCFSKGCSCFKRQCYKN",
+        "pdbId": "6DN5",
+        "cyclisation": "s2s",
+        "pdbFile": "/pdb_files/6DN5.pdb"
+    }
+]
