@@ -1,85 +1,75 @@
 import React, { useEffect, useState } from "react";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import PDBViewer from "./components/PDBViewer";
+import Papa from "papaparse";
+import SearchBar from "./components/SearchBar";
+import { BrowserRouter as Router, Route, Routes, useParams, Link } from "react-router-dom";
+import JSmolViewer from "./components/JSmolViewer";
 
 function Home() {
-  const [pdbFiles, setPdbFiles] = useState([]);
-  const [selectedPdb, setSelectedPdb] = useState("");
+  const [csvData, setCsvData] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
-  const [searchResults, setSearchResults] = useState([]);
+  const [results, setResults] = useState([]);
+  const [allOptions, setAllOptions] = useState([]);  
 
   useEffect(() => {
-    fetch("/pdb_files/list.json")
-      .then((res) => res.json())
-      .then(setPdbFiles);
-  }, []);
+    fetch("/protein_sequence_forwebsite.csv")
+      .then((res) => res.text())
+      .then((text) => {
+        const parsed = Papa.parse(text, { skipEmptyLines: true }).data;
+        const data = parsed.slice(1);
+        const col2 = [...new Set(data.map((row) => row[1]).filter(Boolean))];
 
-  const handleSearch = () => {
-    fetch("/pdb_sequences.json")
-      .then((res) => res.json())
-      .then((data) => {
-        const results = data.filter((item) =>
-          item.sequence.toLowerCase().includes(searchTerm.toLowerCase())
-        );
-        setSearchResults(results);
+        setCsvData(data);
+        setAllOptions(col2);
       });
+  }, []);  
+
+  const handleSearch = (input) => {
+    const filtered = csvData.filter((row) =>
+      row[1]?.toLowerCase().includes(input.toLowerCase())
+    );
+    setResults(filtered);
   };
 
   return (
-    <div style={{ padding: "10px" }}>
-      <h1 style={{ position: "absolute", top: "10px", left: "10px", margin: 0 }}>24 Cyclic Peptide</h1>
-
-      <input
-        type="text"
-        placeholder="Search sequence..."
-        value={searchTerm}
-        onChange={(e) => setSearchTerm(e.target.value)}
-        style={{ marginRight: "10px", marginTop: "50px", fontSize: "18px", padding: "10px", width: "300px" }}
+    <div style={{ padding: "20px" }}>
+      <title>24_Cyclic_Peptide</title>
+      <h1>24_Cyclic_Peptide</h1>
+      <h3>Search Protein Sequences</h3>
+      <SearchBar
+        searchTerm={searchTerm}
+        setSearchTerm={setSearchTerm}
+        handleSearch={handleSearch}
+        allOptions={allOptions}
       />
-      <button onClick={handleSearch} style={{ fontSize: "18px", padding: "10px 20px" }}>Search</button>
-
-      <select
-        onChange={(e) => setSelectedPdb(e.target.value)}
-        value={selectedPdb}
-        style={{ margin: "10px 0", fontSize: "18px", padding: "10px", width: "320px" }}
-      >
-        <option disabled value="">
-          Select a PDB file
-        </option>
-        {pdbFiles.map((file) => (
-          <option key={file} value={file}>
-            {file}
-          </option>
+      <ul>
+        {results.map((row, index) => (
+          <li key={index}>
+            <Link to={`/pdb/${row[0]}`}>{row[1]}</Link>
+          </li>
         ))}
-      </select>
-
-      {searchResults.length > 0 && (
-        <ul>
-          {searchResults.map((result, index) => (
-            <li
-              key={index}
-              onClick={() => setSelectedPdb(`${result.pdbId}.pdb`)}
-              style={{ cursor: "pointer", color: "blue", fontSize: "18px", padding: "5px" }}
-            >
-              {result.sequence} ({result.pdbId}) - {result.cyclisation}
-            </li>
-          ))}
-        </ul>
-      )}
-
-      {selectedPdb && <PDBViewer pdbFile={`/pdb_files/${selectedPdb}`} />}
+      </ul>
     </div>
   );
 }
 
-function App() {
+function ViewerPage() {
+  const { pdbId } = useParams();
+  return (
+    <div style={{ padding: "20px" }}>
+      <Link to="/" style={{ marginBottom: "20px", display: "block" }}>← Back to search</Link>
+      <h2>Viewing: {pdbId}</h2>
+      <JSmolViewer pdbFile={`/clean_pdbs/${pdbId}.pdb`} />
+    </div>
+  );
+}
+
+export default function App() {
   return (
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/pdb/:pdbId" element={<ViewerPage />} />
       </Routes>
     </Router>
   );
 }
-
-export default App;
