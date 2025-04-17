@@ -1,36 +1,3 @@
-// // src/components/PDBFileSelector.jsx
-// import { useState, useEffect } from 'react';
-// import PDBViewer from './PDBViewer';
-
-// const PDBFileSelector = () => {
-//   const [pdbFiles, setPdbFiles] = useState([]);
-//   const [selectedPDB, setSelectedPDB] = useState(null);
-
-//   useEffect(() => {
-//     // You can replace this with a fetch to /pdb_list.json if generated dynamically
-//     fetch('/pdb_list.json') // You can also hardcode the list for now
-//       .then(res => res.json())
-//       .then(data => {
-//         setPdbFiles(data);
-//         setSelectedPDB(data[0]); // load first by default
-//       });
-//   }, []);
-
-//   return (
-//     <div>
-//       <label>Select a PDB File: </label>
-//       <select onChange={e => setSelectedPDB(e.target.value)}>
-//         {pdbFiles.map((file, i) => (
-//           <option key={i} value={file}>{file}</option>
-//         ))}
-//       </select>
-//       {selectedPDB && <PDBViewer pdbFile={selectedPDB} />}
-//     </div>
-//   );
-// };
-
-// export default PDBFileSelector;
-
 import { useState, useEffect } from "react";
 import PDBViewer from "./PDBViewer";
 
